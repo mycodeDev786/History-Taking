@@ -1,0 +1,81 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Constipation is the passage of small (Quantity less than 50 Gms/day), dry and infrequent stools.",
+      "COMMON CAUSES:",
+      "1:",
+      "Physical inactivity (Due to paralysis or chronic illness)",
+      "2:",
+      "Low roughage diet",
+      "3:",
+      "Drug induced e.g. Diuretics, anti-depressants, anti diarrhoeals, antacids (Aluminium containing), opiates and laxative abuse",
+      "4:",
+      "Psychiatric problems e.g. depression and anxiety",
+      "5:",
+      "Irritable bowel syndrome",
+      "6:",
+      "Systemic disorders e.g. Hypothyroidism, Diabetes mellitus and pregnancy ",
+      "7:",
+      " Inflammatory or mechanical narrowing of the bowel e.g. Chronic amoebiasis, ulcerative colitis, Crohn’s disease, diverticulitis and tumors of the rectum and colon.",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Usual bowel habit:",
+      "It is important to know at the outset the usual bowel habit of the patient. Complaints of constipation even with the passage of one to two stools a day with chronic use of purgatives usually indicates poor bowel habits. Many patients on ne other hand have one bowel action every other day and are happy about it. Note the frequency of bowel action, its quantity and consistency.",
+      "2.Duration:",
+      "Long standing (Improper eating habits, poor bowel habits, inadequate fluid intake, physical inactivity, medication and laxative abuse, depression, irritable bowel syndrome or a Combination of these factors), or recent (Tumours of the rectum or colon, Crohn’s disease, ulcerative colitis or  Intestinal obstruction). Recent constipation is more significant than chronic constipation.",
+      "3.Severity:",
+      "After how many days the stools are passed? This is only significant in planning the treatment but rarely helps in the diagnosis of the underlying cause.",
+      "4.Alternation with diarrhoea:",
+      "Enquire whether it altermates with diarrhoea (Irritable bowel syndrome, chronic amoebiasis, Crohn’s disease, ulcerative colitis, diverticulitis and laxative abuse).",
+      "5.Associated symptoms:",
+      "a):",
+      "Blood in the stools i.e., Haematochezia (Ulcerative colitis, Crohn’s disease, haemorrhoids, cancer of the rectum or colon).",
+      "b):",
+      " Vomiting (Intestinal obstruction)",
+      "c):",
+      "Intolerance to cold, weight gain and hoarseness of voice (Hypothobstruction",
+      "d):",
+      "Recent stroke, operation, heart attack or any chronic illness (Physical inactivity or anorexia causing constipation).",
+      "e):",
+      "Symptoms suggestive of depression or anxiety.",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Of constipation (Laxative abuse) or abdominal surgery (Intestinal obstruction). "
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "About the usual diet, fluid intake and about any change in the dietary habit."
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "About the usual diet, fluid intake and about any change in the dietary habit. "
+    ]
+  },
+  "Drug History": {
+    "name": [
+      " Enquire about the use of laxatives or drugs which can cause constipation (Anti-diarrhoeals, Aluminium containing antacids, anti-depressants, diuretics and haematinics)."
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1:",
+      "Irritable bowel syndrome:- (See under Diarrhoea’) ",
+      "2:",
+      "Amoebiasis: (See under Diarrhoea’)",
+      "3:",
+      "Myxoedema: (See under ‘Generalized swelling) ",
+      "4:",
+      "Ulcerative colitis and Crohn’s Disease:- (See under Diarrhoea’)",
+      ""
+    ]
+  }
+}

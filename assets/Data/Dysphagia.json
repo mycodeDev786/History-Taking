@@ -1,0 +1,80 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Difficulty in swallowing is called Dysphagia. Although  Usually painless it may be painful. There is usually a sensation of food sticking  in the retrosternal area. In most cases dysphagia is experienced at the same level as the lesion or above it but not below it. ",
+      "CAUSES:",
+      "1.Oropharangeal causes:",
+      " Acute tonsillitis (common), Peritonsillar abscess, bulbar and pseudobulbar palsy, myasthenia Garvis (rarė). ",
+      "2.Oesohageal causes:",
+      "Foreign body, peptic oesophagitis (common), carcinoma oesophagus, caustic stricture (Occasional) , Achlasia scleroderma, diabetic neuropathy, Plummer Vinson’s syndrome (rare). ",
+      "3.Functional:",
+      "Globus hystericus (occasional).",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Onset:",
+      "Sudden (Foreign body), gradual (all other causes). ",
+      "2.Nature:",
+      "Progressive i.e. starting with solids and progressing With semisolids and then liquids or vice versa causing increasing difficulty with the passage of time (Carcinoma oesophagus, Peritonsillar abscess, bulbar and pseudobulbar palsy) or non- Progressive i.e. not worsening with the passage of time (All other causes). ",
+      "3.Site:",
+      "Note the site where the food seems to stick, whether in the mouth or throat (Tonsillitis, Peritonsillar abscess), behind the Cricoid cartilage (Stricture or growth at the upper end of the Oesophagus, Plummer Vinson’s syndrome, neurological or neuromuscular disorders) or behind the xiphisternum (Stricture or growth of the lower oesophagus, peptic oesophagus and achalasia). Usually, the site of dysphagia between these upper and lower limits is a good indication of the anatomical level of the lesion. ",
+      "4.Type of food causing dysphagia:",
+      " Solid food (Stricture and growth of the oesophagus, foreign body, Achalasia and Peptic oesophagus), liquid food (neurological or neuromuscular disease). No actual difficulty in swallowing with either solids or liquids but a feeling of a lump in the throat independent of food intake (Globus hystericus). ",
+      "5.Painful or painless:",
+      "Painful (Tonsilitis, Peritonsillar abscess,peptic Oesophagitis and rarely Achlasia), painless ( all other conditions) ",
+      "6.Associated symptoms:",
+      "a):",
+      " Heartburn i.e. retrosternal burning (peptic oesophagitis).",
+      "b):",
+      " Sore-throat and fever (Acute tonsillitis and Peritonsillar  abscess).",
+      "c):",
+      " Weight loss (Malignancy or any signiicant obstruction).",
+      "d):",
+      " Recurrent cough and other symptoms of pneumonia  (Aspiration pneunmonia due to any oesophageal disease, neurological or neuromuscular disease). ",
+      "e):",
+      " Other symptoms of anxiety or depression (Globus hystericus).",
+      "F):",
+      "  Nasal regurgitation of fluids, choking and slurred speech (Bulbar or pseudo-bulbar palsy). ",
+      "g):",
+      " Attacks of drooping of the eyelids on reading and weakness of the muscles on exercise with recovery on  rest (Myasthenia gravis).",
+      "h):",
+      "symptoms suggestive of Raynaud’s phenomenon and tightening of the skin of the fingers (Scleroderma).",
+      "7.Progress:",
+      "Worsening over a period of few days (Bulbar and pseudobulbar palsy), weeks (Carcinoma oesophagus), months  (benign stricture) or intermittent (Myasthenia gravis), no change over the years (Achlasia and Plummer Vinson’s syndrome). "
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Past history of suicidal attempt with corrosives or symptoms or peptic ulcer (Benign stricture due to corrosives or peptic oesophagitis respectively), any hospital admission and the treatment given. "
+    ]
+  },
+  "Faimly History": {
+    "name": [""]
+  },
+  "Personal History": {
+    "name": [
+      "History of chronic heavy smoking and/or use of alcohol (carcinoma oesophagus and peptic oesophagitis). Use of antacids ulcer or  healing drugs (Peptic ulcer) or drugs for myasthenia gravis"
+    ]
+  },
+  "Drug History": {
+    "name": [
+      "History of chronic heavy smoking and/or use of alcohol (carcinoma oesophagus and peptic oesophagitis). Use of antacids ulcer or  healing drugs (Peptic ulcer) or drugs for myasthenia gravis"
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Reflux oesophagitis:",
+      "Causes dysphagia in some chronic patients with peptic ulcers due to the formation of Inflammatory benign stricture. Dysphagia is gradual, very slowly progressive with its site at the lower end of the sternum. There is often a long-standing past history of dyspepsia, epigastric pain with heartburn, and worse on lying and at night. There may be a previous history of treatment with antacids or ulcer healing drugs. The patient may be a heavy smoker and may be addicted to alcohol. ",
+      "2.Carcinoma oesophagus:",
+      "The patient is usually an old person  and may be a heavy smoker or drinker. Dysphagia in such cases is usually due to malignant stricture. It is gradual, progressive with its site behind the lower, middle or rarely upper sternum. The history is usually of few weeks and is associated with anorexia and weight loss",
+      "3.Achlasia:",
+      "The patient is a middle aged person with a long history of many years. Dysphagia is constant, non progressive and is worse with solids. Its site is at the lower end of the oesophagus. For the duration of the illness weight loss is not very marked. However, recurrent pneumonia due to aspiration may be prominent. ",
+      "4.Globus hystericus:",
+      " This is not really dysphagia but is a feeling of lump in the throat in hysterical patients who are usually young females. These symptoms are intermittent and not associated with any regurgitation. Solids and liquids can be can be swallowed without any difficulty although self-induced vomiting can be present. Often previous history of other hysterical symptoms is available",
+      ""
+    ]
+  }
+}

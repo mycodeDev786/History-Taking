@@ -1,0 +1,79 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Blood in the vomitus is called haematemesis while passage of black tarry stools is termed as melaena. Depending on the volume and rapidity of blood loss melaena may or may not be accompanied by haematemesis.",
+      "1:",
+      "Oesophageal varices ",
+      "2:",
+      "Gastric erosions ",
+      "3:",
+      "Peptic Ulcer  ",
+      "4:",
+      "Gastric carcinoma ",
+      "5:",
+      "Bleeding Disorders  ",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Colour of blood in the vomitus:",
+      "Dark red or coffee ground (Old or slow bleeding), bright red (Recent or massive rapid bleeding). This may help to assess the gravity of the situation. ",
+      "2.Quantity of the blood:",
+      "Ask how many times haematemesis or melaena has occurred and a rough idea of how much blood has been lost. ",
+      "3.Melaena stools:",
+      "Ask about passage of melaena stools, i.e. black tarry, sticky, semisolid stools. This usually indicates moderate upper GlT bleeding and follows haematemesis by 12 to 24 hours. It may be absent if the bleeding is slow and no vomiting occurs. Passage of fresh blood per rectum witn haematemesis usually indicates massive and rapid bleeding with rapid transit to the rectum. ",
+      "4.Precipitating factors:",
+      "Enquire about the use of Non-steroidal anti-inflammatory drugs (NSAID), steroids (Gastric erosions) or alcohol (Mallory Weiss Syndrome). ",
+      "5. Associated syymptoms:",
+      "a:",
+      "Symptoms of anaemia depending upon severity (See under Pallor). ",
+      "b:",
+      "Chronic headache or joint disease (Gastric erosions due to the use of NSAID). ",
+      "c:",
+      "Symptoms of dyspepsia (Peptic Ulcer)",
+      "d:",
+      "Discomfort in the left hypochondrium and abdominal distension (Oesophageal varices due to cirrhosis liver). However, varices may bleed before these symptoms can develop. ",
+      "e:",
+      "Anorexia, weight loss and asthenia (Gastric carcinoma).",
+      "f:",
+      "Bleeding from other sites e.g. Gunms, nose or skin (Bleeding Diathesis). ",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      " A):",
+      "Jaundice and /or ascites (Oesophageal varices due to cirrhosis liver).",
+      "B):",
+      "Similar episodes of haematemesis or melaena (Chances of second bleeding for much more in patients with previous such history). "
+    ]
+  },
+  "Faimly History": {
+    "name": [""]
+  },
+  "Personal History": {
+    "name": [""]
+  },
+  "Drug History": {
+    "name": [
+      " Note a history of use of Non-steroidal anti-inflammatory drugs (NSAIDS) or steroids (Gastric erosions)"
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Oesophageal varices:",
+      "Haematemesis is often sudden, massive and difficult to control. Other symptoms of cirrhosis liver (See under ‘Generalized Swelling’) may or may not be present as may be a past history of jaundice.",
+      "2.Gastric erosions:",
+      "There is often a history of sudden massive unexpected haematemesis and melaena which is often associated with pain epigastrium. Usually, the patient has been taking steroids or nonsteroidal anti-inflammatory drugs(NSAIDs). A history of dyspepsia may or may not be present. These symptoms may improve spontaneously or stop the offending drug or respond to antacids or ulcer healing drugs.",
+      "3. Peptic Ulcer:",
+      "(See under Dyspepsia).",
+      "4. Gastric carcinoma:",
+      "A patient is often an old person complaining of haematemesis and melaena which is usually painless, although the pain in the epigastrium may be present. The history may be recent with anorexia, weight loss and symptoms of anaemia. Sometimes there may be a history of severe distaste for meat. Symptoms of dyspepsia usually persist in between meals. Lack of response of chronic dyspepsia to antacids which is hitherto responsive also indicates a malignant change in chronic gastric ulcers.",
+      "5.Bleeding disorders:",
+      "(See under Bleeding Tendency)",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Palpitations are the awareness of cardiac contractions. These may  occur in the presence of normal or increased heart rate and regular or irregular rhythm.",
+      "CAUSES:",
+      "1:",
+      "Sinus Tachycardia e.g. anxiety, exercise, smoking.",
+      "2:",
+      "Extrasystole: Atrial and ventricular premature,beats.",
+      "3:",
+      "Paroxysmal atrial tachycardia (PAT)",
+      "4:",
+      "Atrial Fibrillation and Flutter",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Duration and frequency:",
+      "Long-standing, occurring daily or even several times a day (Sinus tachycardia or normal rhythm), attacks with interval of freedom in days, weeks or months (PAT), on and off (Extrasystole), continuous over a period (Atrial Fibrillation and atrial flutter).",
+      "2.Exact complaint:",
+      "Missed beats (Extrasystole), heavy thumping beats (Sinus tachycardia or normal rhythm), racing heart (Paroxysmal atrial tachycardia), fluttering beats (Atrial fibrillation or atrial flutter).",
+      "3.Rate and rhythnm:",
+      "If the patient has noted heart or pulse rate uring the attack ask whether the rate is normal with occasional irregularity (Extrasystole), regular with normal or increased rate (sinnus rhythm or sinus tachycardia), regular, very fast, difficult to (PAT), normal or fast but very irregular (Atrial Fibrillation  Sometimes atrial flutter with variable block).",
+      "4.Aggravating and relieving factors:",
+      "Aggravated by anxiety, exercise, fever, smoking, strong tea or coffee (Sinus tachycardia), or paroxysmal  (Atrial tachycardia), relieved  by sucking ice, vomiting or straining (PAT), not much affected by any factor (Atrial fibrillation).",
+      "5.Associated symptoms:",
+      "a:",
+      "Intolerance to heat,  prominent eyes, thyroid enlargement, tremors (Sinus tachycardia or atrial fibrillation due to thyrotoxicosis).",
+      "b:",
+      " Central chest pain on exertion (Ischaemic heart disease).",
+      "c:",
+      "Breathlessness on exertion, orthopnoea, paroxysmal nocturnal dyspnoea and swelling feet (Congestive cardiac failure).",
+      "d:",
+      "Polyuria after the attack of palpitations (PAT).",
+      "e:",
+      "Insomnia, anorexia, generalısed weakness, lethargy , easy fatiguibility (Normal sinus rhythm or sinus tachycardia due to anxiety).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Ask about:",
+      "a):",
+      "Hypertension, heart attack, rheumatic fever (Cardiac disease as the cause of palpitations).",
+      "b):",
+      "Set back in life.e.g. financial loss, death of a relative (Anxiety neurosis) as a cause of palpitations.",
+      ""
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "Ask about the use of drugs which can cause palpitations i.e.",
+      "a):",
+      "Drugs used in bronchial asthma (Aminophylline, salbutamol, terbutaline).",
+      "b):",
+      "Drugs used in cardiac disease (Nifedipine, digoxin, atropine and isoprenaline).",
+      "c):",
+      " Thyroxine in large doses.",
+      ""
+    ]
+  },
+  "Personal History": {
+    "name": ["No Enough Data"]
+  },
+  "Drug History": {
+    "name": ["No Enough Data"]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Sinus tachycardia or sinus rhythm:",
+      "Palpitations usually occur with other feature of anxiety or could be due to drugs, smoking, coffee, tea, heavy meals or thyrotoxicosis.The patient complains of heavy thumping beats with normal or increased rate and regular rhythm. Episodes of palpitations may be long-standing, Occurring daily or even several times a day. These do not indicate any serious cardiac disease and often disappear on removal of the underlying cause. ",
+      "2.Paroxysmal atrial tachycardia (PAT):",
+      "Usual history is attacks of racing heart occurring with intervals of freedom in days, weeks or even months. Rhythm is regular with a rate which is very fast and difficult to count. Attacks may be precipitated by emotions, strong tea or coffee and can be a feature of Thyrotoxicosis. Patient may be knowing the tricks to relieve the attacks e.g. by inducing vomiting, sucking ice, straining, and even massaging the carotid artery. An attack may be followed by polyuria. In older patients there may be symptoms of angina or heart failure.",
+      "3.Extrasystole (Ectopics):",
+      "Patient often complains of missed beats. The heart rate is normal with occasional irregularity. From the history it is difficult to differentiate between atrial and ventricular extrasystole. They are significant only if they are associated with heart disease or progress to cause more serious arrhythmias.",
+      "4.Atrial fibrillation:",
+      "Patient often complains of continuous, fluttering, fast and very irregular beats. There are often symptoms of heart failure or of underlyıng disease e.g. Thyrotoxicosis.",
+      ""
+    ]
+  }
+}

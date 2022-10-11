@@ -1,0 +1,86 @@
+{
+  "Common Causes": {
+    "name": [
+      "1:",
+      "Respiratory diseases e.g. Bronchial asthma, chronic Bronchitis, Pneumonia, Pneumothorax, Pleural effusin,  Pulmonary embolism and Pulmonary fibrosis.",
+      "2:",
+      "Cardiac diseases e.g. Acute pulmonary oedema or congestive cardiac failure due to any cause",
+      "3:",
+      "Metabolic disorders e.g. Metabolic acidosis due to chronic renal failure, diabetic ketoacidosis",
+      "4:",
+      "Psychiatric disorders e.g. Hyperventilation syndrome.",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Duration:",
+      "Short (Pulmonary embolism, Pneumothorax,  Pneumonia, an attack of bronchial asthma, acute pulmonary oedema and pleural effusion), Long (Congestive cardiac failure, chronic bronchial asthma, chronic bronchitis and pulmonary fibrosis).",
+      "2.Onset:",
+      "Sudden (Pulmonary embolism, pneumothorax),  Gradual (Congestive cardiac failure, bronchial asthma, chronic bronchitis and pulmonary fibrosis), in attacks (Atopic asthma ana hyperventilation).",
+      "3.Severity:",
+      "Severity of breathlessness can be descrıbed in grades according to the degree of exertion which causes breathlessness. Ask whether breathlessness occurs on severe exertion e.g. running up two flights of stairs (Grade 1), or on moderate exertion e.g. walking normally up two flights of stairs (Grade IIA), or on mild exertion e.g. walking slowly up one flight of stairs (Grade IIB), or on minimal exertion e.g. walking from room to room (Grade IlI) or it is present even at rest (grade IV). This grading is helpful in recording progress of symptoms and indicating the degree of disability.",
+      "4.Relieving factors:",
+      "diuretics (Congestive cardiac failure). bronchodilators (Bronchial asthma and to some extent chronic bronchitis), Coughing up thick scanty sputum (Bronchial asthma), sitting up in bed or use of extra piilows (heart failure).",
+      "5.Aggravating factors:",
+      "Dust, fumes and cold weather  (Bronchial asthma), night ime (Bronchial asthma), lying flat  (Congestive cardiac failure).",
+      "6.Associated Symptoms:",
+      "a.Cough:- With occasional thick scanty sputum (Bronchial asthma),with mucoid or mucopurulent sputum (Chronic bronchitis), with frothy sputum, sometimes blood- stained (Acute pulmonary oedema). ",
+      "b.Chest Pain:- Sudden pain followed by breathlessness b) (Pneumothorax and pulmonary embolism).",
+      "c.Wheeze (Bronchial asthma, chronic bronchitis and sometimes acute pulmonary oedema).",
+      "d.Sneezing, skin lesions and allergies (Bronchial asthma atopic variety).",
+      "e.Fever (Pneumonia or empyema thoracis).",
+      "f.Orthopnoea, paroxysmal nocturnal dyspnoea, swelling feet and pain right hypochondrium (Congestive cardiac failure).",
+      "g.Attacks of fits following numbness around the mouth with other symptoms of anxiety (Hyperventilation).",
+      "h.Symptoms of chronic renal failure as the underlying cause of breathlessness. ",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "1:",
+      "Symptoms suggestive of rheumatic fever (CCF due Rheumatic heart disease), hypertension or angina and/or myocardial infarction as the cause of CCF.",
+      "2.Any previous hospital admissions or cardiac operation.",
+      ""
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "1:",
+      "Of bronchial asthma ",
+      "2:",
+      "Family background in cases of hyperventilation due to anxiety or hysteria ",
+      ""
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "1:",
+      "Of smoking (Chronic bronchitis)",
+      "2:",
+      "Working in cotton or Sugar-cane industory (Lung fibrosis due to Bagassosis) or in mines (Pneumoconiosis).",
+      "3:",
+      "Keeping pets e.g. Parrots, Pigeons etc. (Pulmonary fibrosis due to Pigeon fancier’s lung or Budgregar’ s lung).",
+      ""
+    ]
+  },
+  "Drug History": {
+    "name": ["Not Enough Data"]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Bronchial asthma:",
+      "The history is of attacks of sudden breathlessness which is Worse at night and is aggravated by cold, dust, fumes and in children by exercise. Breathlessness is associated with wheeze and cough. Cough is productive of scanty amounts of thick, tenacious sputum which is difficult to expectorate. There may be an associated feeling of generalized chest tightness. Patient,may also have symptoms of skin allergies or allergic rhinitis (Urticaria, sneezing and watery nasal discharge). Attacks are often relieved by injection or inhalation of bronchodilators or steroids. Most of the children with bronchial asthma are often cured by school leaving age but the disease Usually is chronic In adults. Patients with bronchial asthma are Usually non smoker.",
+      "2.Chronic bronchitis:",
+      "(Definition:",
+      "Cough and expectoration of copious amounts or Sputum occuring for at leašt three months in a year for two consecutive years). The patient is often a middle- aged smoker with history of breathlessness, cough and expectoration of small to moderate quantities of mucoid sputum which may become mucopurulent at times of acute exacerbations. There may be history of wheeze. Initially the symptoms are usually present during winter but with the progression of the disease cyanosis and symptoms of cor pulmonale appear and the patient is breathless all the time. The symptoms of chronic bronchitis are also partially relieved by bronchodilators and steroids.",
+      "3.Congestive cardiac failure:",
+      "(Breathlessness is a feature of left ventricular failure which may or may not be associated with right heart failure. However, right heart failure is often the result of respiratory diseases which usually present as breathlessness). The patient complains of progressive breathlessness on exertion, later on even at rest which may be associated with orthopnoea and  paroxysmal nocturnal dyspnoea. There may be associated symptoms of cough with expectoration of frothy white ssputum(due to pulmonary oedema) which may be blood stained. There may or may not be associated symptoms of swelling of the feet (Oedema) or pain in the right hypochondrium (due to hepatomegaly). Breathlessness is relieved by rest, diuretics and digoxin in most of the cases. There may be a past history of  hypertension, Ischaemic heart disease or rheumatic fever.",
+      "4.Pneumothorax:",
+      "(See under “Chest pain”)",
+      "5.Pulmonary embolism:",
+      "(See under “Chest pain ) ",
+      ""
+    ]
+  }
+}

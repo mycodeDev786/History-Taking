@@ -1,0 +1,74 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Syncope is sudden, brief loss of consciousness due to transient impairment of cerebral circulation. It has to be differentiated from epilepsy by an eyewitness’s account.",
+      "COMMON CAUSES:",
+      "1.Vasovagal syncope",
+      "2.Hysterical fainting",
+      "3.Postural hypotension",
+      "4.Stokes Adams attacks",
+      "5.Transient ischaemic attack",
+      "6.Carotid sinus syncope",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "HISTORY OF PRESENT ILLNESS:",
+      "1.Age:",
+      "Young (Vasovagal syncope, hysterical hyperventilation), old (Transient ischaemic attacks, Stoke Adams attacks), at any age (All other causes).",
+      "2.Type of Onset:",
+      "Sudden over a period of a few seconds (Postural Hypotension carotid sinus syncope or Bradycardias), Gradual over a period of few minutes (Hysterical fainting or hypoglycaemia).",
+      "3.Patient's position at the time of attack:",
+      "Standing from sitting position (Orthostatic hypotension), sitting or standing position (Hypotension due to any cause, carotid sinus syncope, syncope due to tachycardia), or any posture (all other causes of syncope).",
+      "4.Duration and frequency of attacks:",
+      "Very brief i.e; a few seconds to a few minutes (Vasovagal or Carotid sinus syncope or Postural hypotension due to any cause), from a few minutes upto an hour (Hysterical faint or hypoglycaemia). Many fainting attacks over a period of days (Arrhythmias, postural hypotension, hysteria).",
+      "5.Precipitating factors:",
+      "a):",
+      "Emotional stress, venipuncture, pain (Vasovagal,  hysterical hyperventilation).",
+      "b):",
+      "Standing from sitting posture (Postural hypotension)",
+      "c):",
+      "Movements of neck (Cervical spondylosis, tight collar)",
+      "d):",
+      "On exertion (Aortic stenosis, Hypertrophic obstructive cardiomyopathy)",
+      "e):",
+      "Straining e.g. 0n cough (Cough syncope in chronic bronchitis and in children with whooping cough), on micturition while standing (Micturition syncope).",
+      "6.Associated symptoms:",
+      "a).Palpitations (Hysteria, cardiac arrhythmias and hypoglycaemia).",
+      "b).Headache pain on Neck movements (Cervical spondylosis).",
+      "c).Cold sweating (Vasovagal syncope, Hypoglycaemia).",
+      "d).Blood or fluid loss (Postural hypotension).",
+      "e).Irregular jerking movements and generalised spasms without loss of consciousness (Hysterical faint).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Of similar attacks (Vasovagal syncope, orthostatic hypotension, hysterical faints), history of diabetes mellitus (Hypoglycaemia, autonomic neuropathy), or of cardiac disease  (Arrhythmias, Aortic stenosis and hypertrophic obstructive cardiomyopathy). "
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      " Of similar attacks in sisters (Hysterical faints). Enquire about any domestic problems. "
+    ]
+  },
+  "Personal History": {
+    "name": ["Not Enough Data"]
+  },
+  "Drug History": {
+    "name": [
+      "Use of antihypertensives, phenothiazines, anti-parkinsonian drugs (Drug-induced postural hypotension), use of antiarrhythmic drugs (Cardiac arrhythmias)."
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Vasovagal syncope:",
+      "This is the commonest cause of fainting It is more likely to occur in young tense, anxious patients particularly in females under the effect of strong emotion, in hot crowded places, on the sight of blood, by severe pain and venipuncture. It almost always occurs when a person is standing and is relieved by lying down. Fainting is preceded by pallor, nausea, cold sweating, yawning and weakness. Sometimes clenching of teeth, the rigidity of muscles and clonic movements may occur. Unconsciousness lasts for only a few seconds or minutes and the patient quickly recovers colour if laid down.",
+      "2.Postural hypotension:",
+      "The onset of fainting is sudden and almost always the attacks occur on standing from a sitting or lying posture. The patient may have a history of blood or fluid loss or may have symptoms of autonomic neuropathy due to some disease (Diabetes mellitus) or maybe using drugs which may cause hypotension (Anti-hypertensive, anti-psychotic and antiparkinsonian drugs) or the cause may be unknown (Primary orthostatic hypotension). Recovery from an attack is usually rapid.",
+      ""
+    ]
+  }
+}

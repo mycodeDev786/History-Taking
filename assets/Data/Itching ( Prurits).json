@@ -1,0 +1,84 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Pruritus can be defined as a sensation which produces the desire to scratch.",
+      "CAUSES:",
+      "1.Itching accompanied by visible skin lesions:",
+      "a)Allergic reactions e.g. Urticaria, contact dermatitis, ll insect bite",
+      "b)Environmental causes e.g.Frostbite, prickly heat (Miliara) and sun burn",
+      "c)Infestations e.g. Scabies, pediculosis and Pinworms",
+      "d)Infections e.g. Folliculitis, exanthemata and fungal infections",
+      "e)Scaling skin diseases e.g. Seborrhoeic dermatitis, atopic eczema, lichen planus and ichthyosis",
+      "2.Itching secondary to a systemic disease without a visible skin rash:",
+      "a) Senile pruritus (Asteatosis)",
+      "b) Biliary obstruction ",
+      "c) Chronic renal failure",
+      "d) Hypothyroidism",
+      "e) Diabetes mellitus Hyperparathyroidism ",
+      "g) Malignancies e.g. Hodgkin's disease and other lymphomas, Carcinoid syndrome ",
+      "h) Intestinal parasites e.g. Pinworm and hookworm ",
+      "I) Drug reactions e.g.  Opium, Heroin and cocaine addiction, use of aspirin and sulphonamides",
+      "j)Polycythaemia rubra vera",
+      "k) Prodrome of bronchial asthma",
+      "3.Psychosomatic causes:",
+      "e.g. Neurodermatitis, fictitial dermatitis and parasitophobia.",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Site of itching:",
+      "Whether generalised (Obstructive jaundice, renal failure, urticaria, Hodgkin's disease, hypothyroidism, polycythaemia and most of the drug reactions) or localized. If localized whether localized to inguinal region (Tinea cruris, pediculosis pubis and erythrasma), scalp (Seborrhoea, head lice, tinea capitus), anal region (Pinworms in children vulva (Candidiasis, trichomonal vaginitis), back of the neck, around ankles or elbow (Neurodermatitis) or only localized to the area affected by the skin rash (Lichen planus, Dermatitis herpetiformis, psoriasis and eczema).",
+      "2.Timing of itching:",
+      "Note any particular timing of itching e.g. nocturnal (Scabies and pinworm infestation)",
+      "3.Skin rash:",
+      "Present (Exanthemata and skin diseases), absent (Systemic diseases).",
+      "4.Aggravating factors:",
+      "Cold (Frost bite, lchthyosis, asteatosis and most of the scaly skin diseases), sun or heat (Polycythemia rubra, solar urticaria and prickly heat), tension (Neurodermatitis urticaria and most other causes of pruritus)",
+      "5.Relieving factors:",
+      "Antihistamines, tranquilizers steroids and emollients relieve itching in most of the cases of itching.",
+      "6.Associated symptoms:",
+      "a.Jaundice and clay coloured stools (Obstructive jaundice)",
+      "b.Lymhadenopathy (Hodgkin’s disease and other lynıphomas, rarely leukaemias)",
+      "c.Weals with or without attacks of puffiness of Lips or eyelids (Urticaria)",
+      "d.Polyuria and polydipsia (Diabetes mellitus).",
+      "e.Intolerance to cold, hoarseness of voice and lethargy (Hypothyroidism)",
+      "f.Passage of worms in the stools (Pinworm infestation)",
+      "g.Pallor, breathlessness, metallic taste of mouth, nausea and vomiting, oliguria or polyuria (Renal failure)",
+      "h.Attacks of sneezing, watery discharge from the nose  breathlessness and wheeze (Atopic asthma).",
+      "i.Delusions of parasites under  the skin (Acarophobia/ Parasitophobia).",
+      "j.Attacks of diarrhoea, wheeze and flushing of the skin (Carcinoid syndrome)",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      " Ask about similar symptoms in the past, investigatios done and the treatment given. "
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "Note about congested liVing conditions and similar symptoms in other family members (Scabies and pediculosis). Pets like dog or cat at home (Fungal skin infections) and addictions like opium, heroin and cocaine."
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "Note about congested liVing conditions and similar symptoms in other family members (Scabies and pediculosis). Pets like dog or cat at home (Fungal skin infections) and addictions like opium, heroin and cocaine."
+    ]
+  },
+  "Drug History": {
+    "name": [
+      " History of any drug allergy and the name of the drugs i Known. Also note any diet causing skin rash."
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Urticaria:",
+      "This is one of the commonest conditions causing itching. Factors causing urticaria may be known or unknown. Known causes include diet, drugs and chemicals in cosmetics and synthetic cloth, environmental factors or tension and worries. There are attacks of itching with the formation of urticarial papules and weals. Severe attack can cause puffiness of the lips and eyelids. There may be history of symptoms of hay fever (Sneezing and rhinorrhoea) and bronchial asthma (Breathlessness and wheeze) in some cases or there may be a history of passage of worms in the stools.",
+      "2.Scabies:",
+      "This is caused by a mite and can spread from one person to the other in schools, hostels or home particularly in Winter. There is severe itching more so at night. Itching usually Occurs in interdigital clefts of the fingers, inguinal and axillary regions although any area may be affected. The severe itching Often produces linear scratch marks over the involved area of the body.",
+      ""
+    ]
+  }
+}

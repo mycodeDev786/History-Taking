@@ -1,33 +1,50 @@
 {
   "expo": {
-    "name": "HistoryTaking",
-    "slug": "HistoryTaking",
-    "version": "1.0.0",
+    "name": "History Taking",
+    "slug": "historytaking",
+    "version": "2.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFFFFF",
+      "plugins": [
+        [
+          "expo-ads-admob",
+          {
+            "userTrackingPermission": "This identifier will be used to deliver personalized ads to you."
+          }
+        ]
+      ]
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.madevelopers.historytaking"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.madevelopers.historytaking",
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "95791779-38e0-4f6c-9590-96533aed9ebf"
+      }
     }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5621150008566854~7272683426"
   }
 }

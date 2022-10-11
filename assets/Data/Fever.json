@@ -1,0 +1,102 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "1:",
+      "Protozoal infections e.g. Malaria",
+      "2:",
+      "Bacterial infections e.g. Typhoid and paratyphoid fever, Tuberculosis, Brucellosis, Pneumonia, Pyelonephritis, Lung abscess, empyema or subphrenic abscess ",
+      "3:",
+      "mumps or Viral infections e.g. Influenza, measles, chickenpox ",
+      "4:",
+      "Autoimmune diseases e.g. Rheumatic fever, Rheumatoid arthritis, Systemic lupus  erythematosis and Dermatomyositis ",
+      "5:",
+      "Malignant diseases e.g. Lymphomas, Leukaemias and hypernephroma ",
+
+      "6:",
+      "Iatrogenic fever i.e. drug induced ",
+      "7:",
+      " Habitual hyperthermia",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1 Duration:",
+      "     Short (viral infections, pharyngitis or tonsillitis, Pyogenic meningitis, pneunonia, acute malaria), Long (Chronit Malaria, Enteric fever, tuberculosis, brucellosis, autoimmune diseases and malignant diseases). However much depends on when the patient decides to see a doctor. ",
+      "2 Onset:",
+      " Sudden  (Malaria, Abscess anywhere, viral infections), gradual (Enteric fever, tuberculosis, brucellosis, collagen and malignant diseases) with rigors (Malaria, septicaemia and all Pyogenic infections).",
+      "3:Severity:",
+      "  Ask about the temperature if it has been noted and check whether it is low-grade collagen diseases and malignant diseases) or moderate or high- grade (can occur during some stage of any fever). Also keep in mind that the temperature might have changed because of the use of antipyretics or cold sponging. ",
+      "4 Character of fever:",
+      " Note whether the fever is",
+      "(a) Intermittent:",
+      " i.e. fever which is present for few hours abscess anywhere and empyema,  only and then touches normal. If so note the periodicity of fever. whether it is quotidian i.e. occurring daily (Pyelonephritis, malaria due to more than one type of plasmodia) or tertian i.e. occurring on alternate days (Malaria due to plasmodium vivax, ovale and falciparum infections) or quartern i.e. occurring on every fourth day (Malaria due to plasmodium malariae infection)\n",
+      "(b)Remittent:",
+      " i.e. fever which fluctuates more than 2 C in 24 hours and does not touch the baseline (Enteric fever, occasionally other fevers). \n ",
+      " (c)Continued:",
+      " i.e. fever which fluctuates less than 1 C in 24 hours and does not touch the baseline (Tuberculosis and most of the other low grade fevers). \n ",
+      " (d).Pel-Ebstein or Undulant fever:",
+      " i.e. fever which is present for a few days to few weeks and then subsides for few days to weeks only to repeat itself in this fashion (Brucellosis and Hodgkin's lymphoma) \n",
+      "5 Diurnal variations:",
+      "Associated symptoms:",
+      "(a).Headache and neck stiffness (meningitis and subarachnoid hemorrhage), (meningitis. encephalitis",
+      "b).Cough, Chest pain and expectoration (Lobar pneumonia). Copious amounts of sputum more in the bronchiectasis) or hemoptysis (Pulmonary a morning y sputum foul swelling (Lung abscess and bronchiectasis or pulmonary infarction).",
+      "c).Diarrhea with watery stools (viral gastroenteritis diarrhea with bloody stools (Bacillary dysentery ulcerative colitis or Crohn s disease).",
+      "d). Sore throat (Pharyngitis or tonsillitis)",
+      "e).Dysuria and pain in the lumbar regions or hypogastrium (Pyelonephritis)",
+      "f).Joint pains. swelling and redness (Rheumatic fever Rheumatoid arthritis, systemic lupus erythematosus, and septic arthritis)",
+      "g).Enlarged lymph nodes (Tuberculous lymphadenitis acute Hodgkin’s and non-Hodgkin's lymphomas. leukemia’s and infectious mononucleosis)",
+      "h). Rash (Measles. chickenpox. rheumatic fever, drug reactions. systemic lupus erythematosus, and infectious mononucleosis).",
+      "i). Jaundice following fever (viral hepatitis and hemolytic anemias). Jaundice with fever (Cholangitis).",
+      "j). Apparent good health without any anorex1a or weight loss or other associated symptoms (Habitual hyperthermia or fictitious fever)",
+      "K).Weight loss and anorexia are non-specific symptoms that indicate the severity of the disease but do not help in the differential diagnosis",
+      "7. Defervescence of fever:",
+      "Ask whether the fever subsided. Suddenly i.e. with crisis (Malaria, pyelonephritis, empyema, abscess anywhere, or septicemia) or gradually i.e. with lysis (Enteric fever, tuberculosis, or brucellosis). Sweating occurs during defervescence in almost all types of high-grade fevers.",
+      "8. Relieving factors:",
+      "All antipyretic drugs can decrease the temperature to some extent whatever the cause of fever. Ask about the name of drugs that relieved the temperature, as some of them have a diagnostic value and are quite often used as a therapeutic trial e.g. Antimalarial (Malaria), anti-tuberculous drugs (Tuberculosis), and Chloramphenicol (Enteric fever).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Ask about the history of malaria, enteric fever, and tuberculosis and whether proper treatment was given, (These diseases tend to relapse if inadequately treated). Ask about similar diseases in the past (Collagen diseases and inflammatory bowel diseases may have remissions or exacerbations). A history of abdominal symptoms or operation may be a clue to a sub-phrenic abscess. "
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "Ask about similar symptoms in other family members (Viral hepatitis, tuberculosis or typhoid fever) "
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "a):",
+      "Occupational history e.g. Shepherd, milkman (Brucellosis), medical profession Viral hepatitis, tuberculosis or Fictitious fever).",
+      "b):",
+      "Living conditions e.g. supply of contaminated (Typhoid fever, bacillary dysentery), conditions (Tuberculosis). ",
+      "c):",
+      "Travel abroad (Gonorrhea, Syphilis, malaria, trypanosomiasis, and AIDS).",
+      "d):",
+      "Hobbies e.g. keeping pigeons or parrots (Psittacosis",
+      ""
+    ]
+  },
+  "Drug History": {
+    "name": [
+      "Note all drugs being taken by the patient as they may. Only be a clue to the diagnosis but may also be the cause of fever"
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Malaria:",
+      "The fever is sudden in onset with rigors, high grade, intermittent, and depending upon the plasmodium causing infection it may be quotidian (Plasmodia of different types). Tertian Plasmodium vivax, Ovule and falciparum) or quarter (Plasmodium malaria). Untreated fever may continue for weeks to months, although in such cases, Trever becomes low grade or r may be absent. Symptoms in such cases may be because of anemia and splenomegaly. (Chronic malaria). There is a good response to antimalarial and profuse sweating. Fever subsides by the crisis with profuse sweating.",
+      "2.Enteric fever:",
+      "The fever is gradual, remittent reaching a peak of high grade in about 3 to 5 days. Untreated fever usually lasts for about four weeks unless the course is altered by specific treatment. Fever subsides by lysis. At the onset, there is a prodrome of headache, dry cough, and generalized malaise. Anorexia 1s prominent with constipation initially followed by diarrhea later on.",
+      "3.Tuberculosis:",
+      "The fever is gradual in onset, low grade, continued or intermittent with evening rise, and associated with night sweats, weakness, anorexia, and weight loss. Depending upon the site of infection there may be neck rigidity with or without paralysis and disturbance of consciousness level(Meningitis). Cough breathlessness, expectoration and sometimes haemoptysi1s (Pulmonary tuberculosis), or abdominal pain with diarrhea alternating with constipation which may be followed by abdominal distension (ileocecal tuberculosis and tuberculous abdominal Sites). Ant tuberculous drugs usually cause gradual subsidence of fever with weight gain and relief of other associated symptoms. ",
+      "4.Habitual hyperthermia:",
+      "This usually occurs in young neurotic women with a long-standing history of low-grade fever with afternoon temperatures between 100 and 100. 5F. Associated with fever is usually nonspecific complaints without any weight loss. These patients often keep a detailed record of temperature and investigations, which are usually normal. Reassurance and removal of the patient from her stressful life situation with or without tranquilizers often result in the disappearance of fever.",
+      ""
+    ]
+  }
+}

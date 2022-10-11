@@ -1,0 +1,139 @@
+{
+  "Common Causes": {
+    "name": [
+      "1.Diseases of the upper motor neurones e.g.:",
+      "a:",
+      "Stroke due to thrombosis, haemorrhage or embolism",
+      " b:",
+      "Transverse myelitis ",
+      "c:",
+      "Primary lateral scmyelitis",
+      "d:",
+      "Progressive pseudobulbar palsy",
+      "2.Diseases of the lower motor neurones e.g:",
+      "a:",
+      "Poliomyelitis",
+      "b:",
+      "ProgressIve muscular atrophy",
+      "c:",
+      "Progressive bulbar palsy",
+      "3:",
+      "Diseases of combined upper and lower motor neurones e.g. Amyotrophic lateral sclerosis, cervical myelopathy and syringomyelia",
+      "4.Disease of the peripheral nerves i.e. Neuropathies:",
+      "a):",
+      "Metabolic e.g. Diabetic",
+      "b):",
+      "ldiopathic e.g. Post-infectious polyneuropathy (G.B. Syndrome) c) Hereditary e.g. Peroneal muscular atrophy, Freidreich ‘s ataxia ",
+      "d):",
+      "Nutritional e.g. Alcoholic neuropathy, Folic acid and Vitamin B12 or B6 deficiency.",
+      "5:",
+      "Diseases of the neuromuscular junction e.g. Myasthenia gravis",
+      "6.Diseases of the muscles:",
+      "a):",
+      "Hereditary e.g. Muscular dystrophies (Limb-girdle, Duchenne's, Facio-scapulohumeral, myotonic and distal varieties)",
+      "b):",
+      "Metabolic e.g. Hyper and hypothyroidism, Cushing's  syndrome and familial periodic paralysis",
+      "c):",
+      "Polymyositis and Dermatomyositis",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Onset:",
+      "Within a few minutes (Stroke due to embolism or haemorrhage), within a few hours to few days (Poliomyelitis, acute transverse myelitis, G.B.Syndrome, stroke due to thrombosis), within weeks to months (Motor neurone disease, muscular dystrophies,, familial periodic paralysis and acute thyrotoxic myopathies).",
+      "2.Type of disability:-",
+      "Ask whether there is more difficulty in:",
+      "a):",
+      "Going upstairs or standing from a sitting posture (Weakness of the proximal muscles of the lower limbs).",
+      "b):",
+      "Going downstairs or sitting from standing posture (Weakness of the distal muscles of the lower limbs).",
+      "c):",
+      "Combing the hair or putting something in the shelf (Weakness of proximal muscles of the upper limbs)",
+      "d):",
+      "Writing, holding something in the hand or removing Something from the shelf (Weakness of distal muscles or the upper limbs)",
+      "As a general rule proximal muscles are usually first involved in myopathies while distal muscles are usually is involved in neuropathies.",
+      "3.Pattern of weakness:",
+      "a):",
+      "Weakness of one half of the body with -or without involvement of one or more cranial nerves (Stroke usually due to cerebrovascular accident).",
+      "b):",
+      "Paralysis of a single muscle or a group of muscles (Neuropathies).",
+      "c):",
+      "Generalised paralysis involving limbs and cranial nerves: acute and episodic (Periodic paralysis, thyrotoxicosis), acute and ascending (G.B.Syndrome): insidious and slowly progressive (Motor neurone disease and Muscular dystrophies), chronic (Polymyositis and spinal muscular atrophies)",
+      "d):",
+      "Distal limb weakness with foot or wrist drop (Familial and peroneal atrophy and rarely other  muscular neuropathies). ",
+      "e):",
+      "Weakness of shoulder or hip girdle muscles (Polymyositis, dermatomyositis, progressive muscular dystrophies, occasionally myopathies due to metabolic and hormonal disorders).",
+      "f):",
+      "Weakness of both the legs: symmetrical (Polyneuropathies), asymmetrical (Motor neurone disease, poliomyelitis)",
+      "g):",
+      "Weakness of both arms presenting as inability to-lift the arms (Facio-scapulo-humeral museular dystrophy, amyotrophic lateral sclerosis, rarely early stage. Of G.B. Syndrome).",
+      "h):",
+      "Inability to hold the head erect: whether difficulty is in holding the head (Due to weakness of the posterior neck muscles e.g. polymyositis) or to lift it froni the pilow (Due to weakness of the anterior neck muscles and Sternocleidomastoids e.g. progressive muscular dystrophies, motor neurone disease and syringomyelia).",
+      "i):",
+      "Dysarthria, dysphonia and dysphagia i.e. Bulbar Palsy) with or without weakness of the jaw or facial muscle  (Motor neurone disease, bulbar poliomyelitis and diphtheria)",
+      "j):",
+      "Drooping of the upper eyelids with or without weakness of the jaw while eating or talking (Myasthenia gravis and myotonic dystrophy).",
+      "k):",
+      "Weakness of both sides of the face with inability to smile, to expose the teeth and to close the eyes (G.B. Syndrome, myasthenia gravis, myotonic dystrophy, Facio-scapulo-humeral muscular dystrophy, polymyositis and sarcoidosis).",
+      "l):",
+      "Weakness of the eye muscles presenting as double vision, drooping of the upper eyelids or squint with or without exophthalmos or enophthalmos i.e. lesions of the 3rd, 4th and 6th cranial nerves (Myasthenia gravis, thyrotoxicosis and myotonic dystrophy).",
+      "4.Aggravating or relieving factors:",
+      "a):",
+      "Whether the weakness is aggravated by exercise (Myasthenia gravis) or by food rich in carbohydrates (Periodic paralysis).",
+      "b):",
+      "Whether the weakness is relieved by rest or Pyridostigmine or neostigmine (Myasthenia gravis) Or Potassium chloride (Hypokalaemic periodic parparalysis",
+      "5:Associated symptoms:",
+      "Ask about any history of ",
+      "a):",
+      "Fasciculations (Motor neurone disease and sometimes in early stages of poliomyelitis).",
+      "b):",
+      "Numbness and tingling (Neuropathies)",
+      "c):",
+      "Fever with or without sore-throat or GIT symptoms preceding the weakness (Transverse myelitis, preceding G.B.Syndrome and poliomyelitis).",
+      "d):",
+      "Club foot deformity (Peroneal muscular atrophy, Freidreich’s ataxia and hereditary spastic paraplegia).",
+      "e):",
+      "Wasting of muscles due to lower motor neurone lesions involving anterior horn cells(Poliomyelitis, progressive muscular atrophy), nerves (some chronic neuropathies) or muscles (Hereditary muscular dystrophies).",
+      "f):",
+      "Pain in the muscles (Dermatomyositis or polymyositis and in early stages of neuropathies).",
+      "g):",
+      "Rash (Dermatomyositiss and systemic lupus erythematosis).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": ["Not Enough Data"]
+  },
+  "Faimly History": {
+    "name": [
+      "Note whether family history is suggestive of autosomal recessive mode of inheritance i.e. the parents are normal but relatives and about 25 % of the siblings are affected (Limb girdle muscular dystrophy and Freidreich’s ataxia) or autosomal dominant (Facio-scapulo-humeral and myotonic muscular dystrophy, Peroneal muscular atrophy and hereditary spastic paraplegia) or X-linked recessive inheritance i.e. about 50% of maternal cousins and brothers of the patient are suffering from similar disease (Duchenne’s muscular dystrophy). If many genera-tions of the patient are affected, try to trace the ancestor first affected, course of the disease in the affected relatives and the treatment given."
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "Of addiction to alcohol (Peripheral neuropathy). Use of kushtas (Parkinsonism or peripheral neuropathy due to heavy metals), profession as a boxer (Parkinsonism) vegetarian dietary habit (Peripheral neuropathy due to vitamin B12 deficiency)."
+    ]
+  },
+  "Drug History": {
+    "name": [
+      " Ask about the drugs which the patient has been taking as they may be a clue or cause of the suspected diagnosis e.g. Pyridostigmine or neostigmine (Myasthenia gravis), steroids (Myopathy due to Cushing’s syndrome), Isoniazid or vincristine (Peripheral neuropathy). "
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "involves one half of the body",
+      "1.Stroke:",
+      "The weakness usually involves one half of the body (Hemiplegia) or all the four limbs (Quadriplegia). It may occur abruptly within a few seconds (embolism), a few minutes (Haemorrhage) or over several hours or days (Thrombosis). Depending upon the site and extent of the lesion there may be  unconsciousness, loss of speech, visual disturbances or deviation of  the mouth. The patient may have fever or neck stiffness (Subarach-noid haemorrhage). There may be history of  Hypertension, Diabetes mellitus, ischaemic heart disease or smoking. There may be history of similar attacks in the past with full or partial recovery. The course may be of full recovery within 24 hours (Transient ischaemic attacks), partial recovery over days or weeks or worsening due to subsequent strokes.",
+      "2.Guillain Barre Syndrome:",
+      "The patient often has a history of febrile illness with upper respiratory or gastrointestinal symptoms one to four weeks prior to the onset of weakness. The weakness usually starts from the feet and ascends upwards Over a period of hours to days to involve the upper limbs, face or chest Involvement of the chest may cause respiratory difficulty and is a medical emergency. Weakness may be accompanied by Pain or  numbness in the limbs and can cause urinary or or bowel disturbances. There is no loss of consciousness.  If the patient Survives from the initial complications, recovery starts slowly over days to weeks but may be delayed for months.",
+      "3.Motor Neurone Disease:",
+      "The patient is often a middle aged person complaining of asymmetrical weakness of the lower limbs first involving the distal muscles and progressively increasing months to years until  the patient is bed-bound. Involvement of the upper limbs is often associated with wasting of the hands. There may be history of fasciculations of the muscles and stiffness of the limbs which may be painful. In some cases there may be history of outbursts of uncontrolled laughing or weeping. Most of the patients are dead within few years of the onset of illness.",
+      "4.Hereditary muscular dystrophies:",
+      "As the name indicates these are a group of disorders causing degeneration of muscles. Depending on the type of muscular dystrophy, there may be family history of consanguinity of parents, other brothers and sisters affected or maternal cousins or uncles affected from a similar disease. The commonest type, Limb girdle muscular dystrophy, presents as slow, painless weakness. and wasting involving proximal muscles of the lower limbs later on involving the upper limbs as well, although the pattern may be reversed. In Duchenne's muscular dystrophy the patient presents with weakness of the proximal muscles of the lower limbs along with hypertrophied muscles particularly the calf muscles, the disease presenting usually in infancy with difficulty in standing resulting in a peculiar posture and wheelchair life in teenagers. In myotonic dystrophy, there is weakness of the proximal muscles of the limbs and face with associated baldness, mental retardation, impotence or visual disturbances due to cataract formation. There are no associated sensory symptoms. Facio-scapulo-humeral and distal (Gower's) muscular dystrophies are rare and involve the muscles as evident from their name.",
+      "5.Myasthenia gravis:",
+      "The patient gives history of sudden attacks of painless weakness of muscles which is brought on by exertion and relieved by rest or anticholinesterase drugs (p 11yridostigmine, neostigmine or edrophonium). Although the weakness may be generalised, muscles supplied by cranial nerves as well as proximal muscles of the limbs are usually involved. Involvement of the ocular muscles is the commonest presenting complaint, causing ptosis or diplopia. Patient may also com plain that after starting talking or eating, it is almost impossible to continue without supporting the jaw. In advanced cases, the muscle weakness may be permanent and may fail to respond to rest or drugs.",
+      ""
+    ]
+  }
+}

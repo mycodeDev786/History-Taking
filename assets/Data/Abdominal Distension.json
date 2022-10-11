@@ -1,0 +1,102 @@
+{
+  "Common Causes": {
+    "name": [
+      "CAUSES (FIVE F’S):",
+      "1:",
+      "Obesity (Fat)",
+      "2:",
+      "Pregnancy (Foetus)",
+      "3:",
+      " Ascites (Fluid)",
+      "4:",
+      "Inteştinal Obstruction (Flatus & faeces)",
+      "5:",
+      " Ovarian cyst (Fibroid)",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Onset:",
+      "Sudden(Acute intestinal obstruction), gradual (Pregnancy, obesity, ascites and ovarian cyst).",
+      "2.Progression to and from other sites:",
+      "a):",
+      "Localized only to the abdomen (Pregnancy, intestinal obstruction, tuberculous or malignant ascites and ovaria cyst).",
+      "b):",
+      "Starting from the abdomen and progressing to the legs or feet (Ascites due to cirrhosis liver). ",
+      "c):",
+      "Starting from the feet and legs and progressing to the abdomen (Congestive Cardiac Failure).",
+      "d):",
+      "Starting from the lower eye-lids and face and progressing to the abdomen and feet (Ascites due to nephrotic syndrome).",
+      "3.Presence or absence of pain:",
+      "Ask whether the abdominal distension is painful (intestinal obstruction and exudative ascites due to pyogenic and tuberculous infection or malignant infiltration). Or painless (Obesity. Pregnancý., ovarian cyst and transudative ascites due to Cirrhosis Iiver, Congestive cardiac failure and nephrotic syndrome).",
+      "4.Other associated symptoms:",
+      "a):",
+      "Amenorrhoea (Pregnancy, ovarian cyst and sometimes with tuberculous ascites, cirrhosis live or nephrotic syndrome).",
+      "b):",
+      "Breathlessness on exertion, orthonoea, Paroxysmal nocturnal dyspnoea and pain in the right hypochondrium (Congestive cardiac failure).",
+      "c):",
+      "Colicky abdominal pain, absolute constipation and vomiting (lntestinal obstruction) ",
+      "d):",
+      "Fever (Tuberculous ascites and peritonitis due to rupture of a viscus, rarely due to malignant ascites). ",
+      "e):",
+      "Weight loss and change in the bowl habits (Malignant ascites due to GIT malignancy)",
+      "f):",
+      "Discomfort or mass in the left hypochondriun (Splenomegaly due to cirrhosis liver).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "1:",
+      "Jaundice (Cirrhosis liver)",
+      "2:",
+      " Fever (Peritonitis due to ruptured typhoid ulcer or appendix and spontaneous bacterial peritonitis).",
+      "3:",
+      "Dyspepsia (Perforated peptic ulcer).",
+      "4:",
+      "Operation for some malignant disease (Malignant Ascites).",
+      "5:",
+      "Abdominal operation or hernia (lntestinal obstruction).",
+      "6:",
+      " Rheumatic fever, hypertension and ischaemic heart disease (Ascites due to congestive cardiac failure)",
+      ""
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "Enquire about a family history of",
+      "1:",
+      "Hypertension or ischaemic heart disease  (Ascites due to CCF).",
+      "2:",
+      "Tuberculosis (Tuberculous ascites).",
+      ""
+    ]
+  },
+  "Personal History": {
+    "name": ["Not Enough Data"]
+  },
+  "Drug History": {
+    "name": [
+      "Enquire about the use of:",
+      "Diuretics (All oedematous states), Digoxin (CCF). Anti- tuberculosis drugs (Tuberculous Ascites), Kushtas and other nephrotoxic drugs (Nephrotic syndrome).",
+      ""
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Pregnancy:",
+      "The patient is often a young female of child bearing age who complains of gradual, painless abdominal distension starting from the lower abdomen. Associated symptoms include amenorrhoea, morning sickness and in late stages foetal movements. Although swelling of the feet may sometime occur, this is usually on walking, standing or sitting with the legs hanging.",
+      "2.Obesity:",
+      "The complains are of gradual, painless distension of the abdomen as a part of generalised weight gain due to fat deposition which has no effect of posture or pressure.",
+      "3.Tuberculous Ascites:",
+      "Patient often complains of gradual, painful distension of the abdomen without any swelling of the feet or face. There may be a history of fever, night sweats, cough, Anorexia and weight loss. There may also be a past history of diarrhoea alternating with constipation and patient may be taking anti-tuberculous drugs.",
+      "Family history for tuberculosis may be positive.",
+      "4.Intestinal obstruction/Paralytic ileus",
+      "There is history of sudden painful distension of the abdomen with vomiting and absolute constipation without any swelling feet or tace. The pain is colicky in intestinal. Obstruction and dull in paralytic ileus. There may be history of fever (Ruptured appendix or perforated peptic ulcer) or dyspepsia (perforated peptic ulcer). There may be past history of abdominal opts eration (Adhesions causing intestinal obstruction).",
+      "5:",
+      "Ascites due to cirrhosis liver, Congestive Cardiac failure and nephrotic syndrome: See under  Generalised swelling ",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "Common Causes": {
+    "name": [
+      "1:",
+      "Cirrhosis liver",
+      "2:",
+      "Congestive cardiac failure (CCF)",
+      "3:",
+      "Nephrotic syndrome ",
+      "4:",
+      "Myxoedema",
+      "5:",
+      "Angioedema "
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Duration and onset:",
+      "Short history with sudden onset (Angioedema). Long history with gradual onset (CCF, Cirrhosis liver, Nephrotic syndrome, and Myxoedema).",
+      "2.Sites involved:",
+      "a):",
+      "Starting on lower eye lids and face as bogginess esp. On waking, later on extending to the abdomen and feet (Nephrotic syndrome). ",
+      "b):",
+      "Starting from the abdomen and then extending to the feet and rarely to rest of the body (Cirrhosis liver). ",
+      "c):",
+      "Starting from the feet, extending to the legs and then abdomen (CCF) ",
+      "d):",
+      "Generalized puffiness of the whole body (Myxoedema). ",
+      "e):",
+      "Involvement of the eye-lids and lips, very rarely rest of the body (Angioedema). ",
+      "3.Effect of posture and pressure:",
+      "Increased on the feet by walking, standing or sitting with the legs hanging and pressure causing a depression or pit on the affected area i.e. pitting oedema (Cirrhosis liver, CCF and Nephrotic syndrdrome), no effect of posture and pressure (Myxoedema and Angioedema).",
+      "4.Associated symptoms:",
+      "a):",
+      "Breathlessness on exertion, orthopnoea, paroxysmal nocturnal dyspnoea, pain right hypochondrium and palpitations (CCF). ",
+      "b):",
+      "Oliguria and discomfort in lumbar regions (Nephrotic  syndrome, rarely in CCF and Cirrhosis liver). ",
+      "c):",
+      "Lethargy, sleepiness, intolerance to cold, hoarseness of voice, constipation and dizziness (Myxoedema). ",
+      "d):",
+      "Itching with formation of weals at the site of itching (Angioedema). ",
+      "5.Aggravating symptoms:",
+      "Intake of salt (CCF, Cirhosis liver and Nephrotic syndrome), use of drugs or diet to which the patient is allergic (Angioedema). ",
+      "6.Relieving factors:",
+      "Diuretics (CCF, Cirrhosis liver and Nephrotic and syndrome), Thyroxine (Myxoedema), Anti-histamines steroids (Angioedema). ",
+      "7.Progression:",
+      "Progressively worse unless treated (CCF, Myxoedema, cirrhosis liver and nephrotic syndrome), attacks at variable intervals (Angioedema).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      " Ask about past history suggestive of:",
+      "a:",
+      "Jaundice (Cirrhosis liver)",
+      "b:",
+      "Angina pectoris, heart atack, hypertension or Rheumatic fever (Congestive cardiac failure, ",
+      "c:",
+      "Sore-throat (Nephrotic syndrome)",
+      "d:",
+      "Drug or food allergies causing urticarial rash (Angioedema) ",
+      "e:",
+      "Thyroid operation (Myxoedema)"
+    ]
+  },
+  "Faimly History": {
+    "name": ["There is no such data"]
+  },
+  "Personal History": {
+    "name": ["There is no such data"]
+  },
+  "Drug History": {
+    "name": ["There is no such data"]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Cirrhosis Liver:",
+      "Often there is a past history of jaundice although this history may be absent. The swelling first appears on the abdomen and later on extends to the feet. It is increased by walking, standing or sitting with feet dependent and by salt intake. There may history of heaviness in the left hypochondrium (due to splenomegaly) or haematemesis and melaena (due to oesophageal varices and/or peptic ulcer). Diuretics relieve the symptoms to a variable extent.",
+      "2.Congestive cardiac failure:",
+      "The swelling starts gradually on the dependent parts (Feet and legs while standing, walking or Sitting and on the sacral area while lying). Abdomen may be involved later on although this is rare. This symptom is usually associated with other features of congestive cardiac failure i.e. breathlessness on exertion, orthopnoea, paroxysmal nocturnal dyspnoea and pain in the right hypochondrium, sometimes with jaundice due to hepatic congestion. There may be a past history suggestive of Rheumatic fever, hypertension or angina. The symptoms of CCF are relieved by diuretics or digoxin and worsened by intake of salt",
+      "3.Nephrotic syndrome:",
+      "Usually the swelling is first noted as bogginess of the lower eye-lids on waking up from sleep. Later on it extends to the abdomen and the feet. The swelling is gradual, painless and pitting. There may be associated oliguria, anuria and heaviness in the lumbar regions. Past history may reveal use of kushtas or nephrotoxic drugs or symptoms of sore throat.",
+      "4.Myxoedema:",
+      "The patient who is often a female presents with Generalized, gradual, painless, non-pitting swelling. There may be a past history of thyroid surgery. Associated symptoms of lethargy, somnolence, hoarseness of voice, weight gain despite poor appetite, loss of hair and intolerance to cold often help to clinch the diagnosis. Swelling and other symptoms gradually improve by thyroid replacement therapy. ",
+      "5.Angioedema:",
+      "The patient who often has a history of allergy to drugs or food complains of attacks of itching with weal formation which may progress to puffiness of the eyelids and lips with suffocation and difficulty in breathing. Symptoms are often recurrent and are relieved by anti-histamines, steroids or subcutaneous adrenaline.",
+      ""
+    ]
+  }
+}

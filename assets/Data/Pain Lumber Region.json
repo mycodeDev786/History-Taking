@@ -1,0 +1,68 @@
+{
+  "Common Causes": {
+    "name": [
+      "1:",
+      "Ureteric colic (Due to obstruction by stone, crystals or clot)",
+      "2:",
+      "Urinary tract infection (UTI)",
+      "3:",
+      "Glomerulonephritis",
+      "4:",
+      "Enlarged kidneys (Hydronephrosis, ploycystic kidneys and tumours of the kidneys)",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Site:",
+      "Right or left lumbar regions (Ureteric colic, hydronephrosis or renal tumour) or bilateral (UTI, polycystic disease of the kidneys or glomerulonephritis).",
+      "2.Character:",
+      "Colicky (Ureteric colic), dull (UTI, Hydroneplhrosis, polycystic kidneys, acute glomerulonedry cough and progressively increasing breathlessness which may worsen during intercurrent infections. There is little or no response to steroids. Ultimately features of cor pulmonale develop in these patients ",
+      "3.Severity:",
+      "Severity of pain does not help in the diagnosis and varies from patient to patient, although it helps to Judge the progress of the patient and to plan the treatment. Generally, ureteric colic is one of the severest pains experienced by the patient.",
+      "4.Radiation:",
+      "Radiating from loin to the groin (Ureteric colic) or localized to the lumbar regions (all other conditions.",
+      "5.Associated symptoms:",
+      "a):",
+      "Dysuria, frequency of micturition and passage of scanty amounts of urine (Urinary tract infection, rarely due to crystalluria). ",
+      "b):",
+      "Fever (Pyelonephritis and renal tuberculosis) ",
+      "c):",
+      "Mass in the lumbar region (Hydronephrosis, polycystic kidneys, and renal tumours)",
+      "d):",
+      "Haematuria (Renal calculi, renal tumours and polycystic kidneys, sometimes in UTI.",
+      "e):",
+      "Joint pain and swelling (Gout and gonorrhoea) ",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Of similar attacks, passage of stone or gravel in the urine, previous attacks of joint pains suggestive of gout and previous operations on the urinary tract."
+    ]
+  },
+  "Faimly History": {
+    "name": [" Of renal calculi or polycystic disease of the kidneys. "]
+  },
+  "Personal History": {
+    "name": ["Not Enough Data"]
+  },
+  "Drug History": {
+    "name": [
+      "Of the use of sulphonamides (Crystalluria as a cause of ureteric colic). "
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Ureteric colic:",
+      "The patient gets sudden, severe, colicky pain in one of the lumbar regions which radiates from the loin to the groin and makes the patient to roll in the bed until it is relieved by strong analgesics. This may be associated with symptoms of UTI or haematuria. There may be history of passage of gravel or concretions, in the urine. There may a history of the use of sulphonamides or scanty fluid intake prior to attack. There is often a past history of similar attacks or operation for a renal stone. Family history for renal calculi may also be positive.",
+      "2.Urinary tract infection:",
+      "The pain is gradual, constant  dull, usually localized to the lumbar regions but may also be present in the hypogastric area. It may or may not be associated with fever, dysuria, frequency of micturition or haematuria Often the symptoms of UTI and ureteric colic coexist. ",
+      "3.Enlarged kidneys:",
+      "The pain is gradual, constant, dull often with a dragging sensation in either or both of the lumbar regions. Depending upon the cause of enlarged kidneys the associated symptoms may include fever, mass in one or both lumbar regions, haematuria and weight loss. Untreated, the symptoms of chronic renal failure may supervene. A positive history of enlarged kidneys with or without hypertension and chronic renal failure in the family is very suggestive of polycystic kidneys.",
+      "4.Acute glomerulonephritis:",
+      "The pain is dull, constant, bilateral and localized to the lumbar region and may be associated with oliguria, anuria, peri-orbital puffiness and swelling feet. A History of sore throat upto four weeks prior to the onset of these symptoms is indicative of post-streptococcal glomerulonephrtis.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "It is the yellow discolouration of mucus membranes and skin due to raised serum bilirubin level. It is usually evident in the sclera when serum bilirubin is equal to or more than 2 mg % (20 ugm %).",
+      "CAUSES:",
+      "1.Haemolytic Anaemias (Pre-hepatic Jaundice):",
+      "a):",
+      "Auto-imnmune Haemolytic anaemia",
+      "b):",
+      "Thalassaemia ",
+      "c):",
+      "Glucose-6-Phosphate dehydrogenase (G.6.P-D) deficiency",
+      "d):",
+      "Blood transtusion reactions",
+      "2.Hepatic:",
+      "a):",
+      "Viral Hepatitis",
+      "b):",
+      "Toxic Hepatitis (Toxie dnugs or chemicals)",
+      "c):",
+      "Infiltrative diseases (Cirrhosis liver, Wilson’ s disease, Haemochromatosis)",
+      " d):",
+      "Congenital hyperbilirubinaenmias (Gilbert’s disease, Dubin Johnson’s Syndrome, Rotor’s Syndrome)",
+      "3:",
+      "Post Hepatic (Obstructive)",
+      "a):",
+      "Choledocholithiasis ",
+      "b):",
+      "Cholangitis and cholestasis",
+      "c):",
+      "Malignancies: Carcinoma head of the pancreas. Carcinonma Ampulla of Vater, carcinoma common bile duct",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Duration:",
+      "Longstanding for years (Familial Hyperbili rubinaemias), recent (lnfections, toxi Hepatitis, haemolytic  jaundice and obstructive jaundice).",
+      "2.Onset:",
+      "Sudden (Haemolysis, stone common bile duct), Gradual (Infective, drug induced hepatitis).",
+      "3.Colour of stools:",
+      "Normal (Haemolytic or  Hepatocellular Jaundice), clay coloured (Obstructive jaundice).",
+      "4.Colour of urine:",
+      " Dark coloured (all types of jaundice). Indicates intensity of jaundice but does not help in differential diagnosis.",
+      "5.Assoiçated symptoms:",
+      "a):",
+      "Pain right upper abdomen: dull (Viral and drug induced Hepatitis), colicky (Choledocholithiasis).",
+      "b):",
+      "Heaviness left Hypochondrium (Cirrhosis liver, haemolytic jaundice, rarely viral and toxic Hepatitis), occurs because of enlarged spleen. ",
+      "c).Fever:",
+      "preceding jaundice, usually sub-siding with the onset of jaundice (viral hepatitis), intermittent fever with rigors during the period of jaundice (cholangitis), fever with rigors at the onset of jaundice (HaeCholedocholithiasis",
+      "d).Appetite:",
+      "Poor (viral and drug induced Hepatitis)ttent (Haemolytic crisis, stones common bile duct, carcinoma Ampulla of Vater), progressive (Carcinoma head of the Pancreas).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "1:",
+      "Injections or blood transfusions (Hepatitis B and C).",
+      "2:",
+      "Contact with a jaundiced patient (Hepatitis A and E)",
+      "3:",
+      "Alcohol intake (Alcoholic Hepatitis)",
+      "4:",
+      " Use of Drugs e.g. Antituberculous, phenothiazines Methyl-dopa, Erythrocin estolate or MAO inhibitor (Drug induced Hepatitis).",
+      ""
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      " History of contact with a case of jaundice (Viral Hepatitis) history of pallor with jaundice (Familial Haemolytic Anaemias) asymptomatic jaundice (Benign familial hyperbilirubinaemias). "
+    ]
+  },
+  "Personal History": {
+    "name": ["Not Enough Data "]
+  },
+  "Drug History": {
+    "name": ["Not Enough Data"]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Viral hepatitis:",
+      "Often (but not always) there is history of similar cases in the community (Hepatitis A and E), or needle prick, injections or blood transfusion, some months before, jaundice (Hepatitis B and C). There is often a period of flu-like symptoms with fever before jaundice occurs. Fever subsides at the onset of jaundice. There is usually severe anorexia and nausea which may be associated with vomiting. There is constant dull pain in right Hypochondrium because of enlarged liver. Urine colour is dark but stools are of normal colour. Without any complications the jaundice often gradually subsides over a period of weeks with increase in appetite and decrease in pain, nausea and vomiting.",
+      "2.Obstructive jaundice:",
+      "Usually occurs in middle aged fertile fat females with previous history of colicky upper abdominal pain and jaundice, in such cases the usual cause is a stone in the common bile duct. Progressive jaundice in an old person with pain upper abdomen radiating through to the back often indicates carcinoma head of the pancreas. In obstructive jaundice there may be clay coloured stools and itching may be troublesome. Fever with rigors in such a case indicates cholangitis. Longstanding cases of obstructive jaundice may develop diarrhoea due to malabsorption.",
+      "3.Drug induced jaundice:",
+      "Often such a patient has been taking drugs for tuberculosis (INH, Rifampicin, Pyrazinamide or Thiacetazone), Antihypertensives (Methyldopa), Antidepressants (Tricyclic drugs and Monoamine oxidase inhibitors) or had anaesthesia (Halothane). Usually the symptoms are similar to viral Hepatitis and jaundice gradually subsides on withdrawing the offending drug. ",
+      "4.Haemolytic jaundice:",
+      "Jaundice is often preceded by fever with rigors indicating haemolytic crisis. Jaundice is sudden in be onset and is associated with pallor of the skin. There may be history of episodes of similar jaundice in the past which could have been precipitated by drugs (Glucose-6-Phosphate- dehydrogenase deficiency). Family history may be positive (Thalassaemias, sickle cell disease, hereditary spherocytosis and G-6-PD deficiency).",
+      ""
+    ]
+  }
+}

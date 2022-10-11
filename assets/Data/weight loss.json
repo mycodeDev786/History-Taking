@@ -1,0 +1,92 @@
+{
+  "Common Causes": {
+    "name": [
+      "1:",
+      "Infections e.g tuberculosis",
+      "2:",
+      "Endocrine diseases e.g. Insulin-dependent diabetes mellitus, hyperthyroidism and Addison's disease",
+      "3:",
+      "Liver diseases e.g. acute viral hepatitis, chronic hepatitis and cirrhosis liver ",
+      "4:",
+      "Chronic renal failure",
+      "5:",
+      "Malignant diseases e.g. Lymphomas,leukaemias, carcinoma of stomach, colon, liver, pancreas and lung",
+      "6:",
+      "Blood diseases e.g. all types of anaemias ",
+      "7:",
+      "Psychological problems e.g. Anorexia nervosa, anxiety and depression ",
+      "8:",
+      "Miscellaneous e.g. Malabsorption and helminthiasis"
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1. Documentation of weight loss:",
+      " Actual weight loss can only be documented if the previous and the recent weight is known. For a Rough guide enquire whether the collar size of the shirt or the waist size of the trousers has decreased or the rings worn in the hands have become loose or the clothes appear loose.",
+      "2.Duration:",
+      "Whether recent and rapid (more significant) or long-standing and slow (less significant",
+      "3.Appetite:",
+      "Increased (Hyperthyroidism, Insulin-dependent diabetes mellitus, worm infestation and malabsorption syndrome), decreased (Addison’s Disease, Psychological disturbances, renal failure, viral hepatitis and malignant diseases).",
+      "4.Dietary habits:",
+      "Enquire about the quantity of food taken daily and any specific food excluded. Particularly note the exclusion of carbohydrates (Dieting), proteins (Carcinoma of the stomach) or fats (because of and fat (Anorexia nervosa), carbohydrates intolerance in carcinoma pancreas and gallbladder).",
+      "5.Associated symptoms:",
+      "a:",
+      "Cough, expectoration with or without haemoptysis and fever with evening rise of temperature (Pulmonary tuberculosis).",
+      "b:",
+      "Jaundice (Acute or chronic hepatitis and carcinoma pancreas) or distension of the abdomen (Cirrhosis liver) ",
+      "c:",
+      "Nausea, vomiting, metallic taste of the mouth with oliguria or polyuria (Renal Failure) ",
+      "d:",
+      "Passage of worms in the stools (Worm Infestation). ",
+      "e:",
+      "Intolerance to heat, tremors, excessive sweating, thyroid swelling (Hyperthyroidism). ",
+      "f:",
+      "Polyuria, polydipsia and polyphagia (Insulin dependant diabetes mellitus).",
+      "g:",
+      "Excessive worry about body image and being overweight (Anorexia nervosa), or difficulty in going to sleep, palpitations and fatiguability in a worrier (Anxiety neurosis) or worthlessness, self-depreciation, early morning waking with or without suicidal thoughts (DepressIon).",
+      "h:",
+      "Dyspepsia, Vomiting with or without haematemesis (Carcinoma stomach), recent constipation, tenesmus and blood in the stools (Carcinoma colon or rectum).",
+      "I:",
+      "Passage of bulky, offensive, frothy and sticky stools (Malabsorption syndrome).",
+      "J:",
+      "Lymph node enlargement (Tuberculous lymphadenitis, lymphomas and lymphocytic leukaemias)."
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Of any significant illness:",
+      " (Operations, treatment of malignant disease or renal problems), any history of the passage of blood worms in the stools (Helminthiasis) or previous blood or transfusions or injections (Viral hepatitis). "
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      " The strict family set up or marital problems in parents (Anorexia nervosa), family history of Diabetes mellitus. "
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "Of patient being a worrier (Anxiety State), any recent upset in life, e.g. failure in examination, loss of job, financial loss or death of a near relative (Reactive Depression), history of heavy smoking (Carcinoma Lung) or drinking (Cirrhosis liver, profession as a farmer (Worm infestation)"
+    ]
+  },
+  "Drug History": {
+    "name": [
+      " Enquire about any drugs taken by the patient in the past and recently, particularly about Digoxin, Fenfluramine Insulin or other anti-diabetic agents."
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1:",
+      "Tuberculosis: (See under Fever) ",
+      "2:",
+      "Viral Hepatitis: (See under Jaundice’)",
+      "3:",
+      "Diabetes Mellitus: (See under ‘Polyuria’) ",
+      "4.Hyperthyroidism:",
+      " The patient is usually a female who complains of weight loss despite normal or increased appetite. Associated symptoms include intolerance to hot weather, excessive sweating, palpitations, insomnia, irritability and thyroid enlargement. The patient or the relatives might have noticed prominent eyes. Sometimes diarrhoea may also occur.",
+      "5.Addison's Disease:",
+      " The patient complains of weight loss, anorexia, nausea, vomiting, abdominal pain, diarrhoea, lethargy and weakness. Darkening of the skin may be noted by the patient or the relatives. Rarely depigmentation of the skin may also be a symptom.",
+      "6.Anorexia nervosa:",
+      " Usually the patient is a young female brought by relatives on account of extreme weight loss and refusal to eat. On eating anything vomiting is often induced. The patient often thinks of herself to be obese and selectively excludes carbohydrates from her diet. Despite the severe degree of cachexia overactivity is common. Sleep is often poor but the patient often awakes fresh. Amenorrhoea is usual. Disturbed parent relationship is usual."
+    ]
+  }
+}

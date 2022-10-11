@@ -1,0 +1,23 @@
+{
+  "Common Causes": {
+    "name": ["Plese Chose Correct Catagery"]
+  },
+  "History of Present Illness": {
+    "name": [""]
+  },
+  "Past History": {
+    "name": [""]
+  },
+  "Faimly History": {
+    "name": [""]
+  },
+  "Personal History": {
+    "name": [""]
+  },
+  "Drug History": {
+    "name": [""]
+  },
+  "Differntail Diagnosis": {
+    "name": [""]
+  }
+}

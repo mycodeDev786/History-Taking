@@ -1,0 +1,113 @@
+{
+  "Common Causes": {
+    "name": [
+      "1:",
+      "Gastritis or gastroenteritis",
+      "2:",
+      "Peptic ulcer ",
+      "3:",
+      "Viral hepatitis",
+      "4:",
+      "Endocrinal disorders e.g. Chronic renal failure Addison’s disease, Diabetic ketoacidosis apd hypercalcacnmia. ",
+      "5:",
+      "Pregnancy ",
+      "6:",
+      "Obstructive lesions e.g. Pyloric stenosis, intestinal obstruction with or without paralytPregnancy",
+      "7:",
+      "Psychogenic vomiting ",
+      "8:",
+      "Drug induced e.g. Digoxin, Iron, Potassium chloride, Opiates, Oestrogens and bronchodilators ",
+      "9:",
+      "Miscellaneous e.g. Colics (Renal, biliary or intestinal). Any febrile illness, Labyrinthine disorders (Meniere’s disease and motion sickness). Raised intracranial pressure and migraine",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Frequeney:",
+      "How many times in 24 hours?, This does not help in making a diagnosis but helps to Judge the severity of  the vomiting and the need of urgency for treatment.",
+      "2.Type of vomiting: ",
+      "Whether projectile (Raised intracranial pressure, rarely pyloric stenosis), or non-projectile (Most other causes).",
+      "3.Timing of vomiting:",
+      "Early morning even without or before eating (Pregnancy, Alcoholism, Uraemia, chronic bronchitis and sometimes in psychogenic vomiting), no definte timing (All other causes).",
+      "4.Relation to meals:",
+      " Immediately following meals (Anorexia nervosa, disorders of the throat and upper oesophagus), half to one and a half hours after meals (Peptic ulcer), no relation to meals (Endocrine disorders and most other causes).",
+      "5.Character of the vomitus:",
+      "Ask about ",
+      "A)Contents:",
+      " Food eaten upto two hours ago (Gastritis, gastroenteritis, peptiç ulcer and endocrine causes), partially disgested food eaten upto 24 hours previously (pyloric stenosis and small intestinal obstruction).",
+      "B)Colour:",
+      " Yellowish i.e. containing hydrochloric acid (Pyloric stenosis and obstructive jaundice), yellowish green or greenish i.c. containing bile ( All disorders without obstruction to the bile flow), coffee ground or bloody i.e. haematemesis (Ruptured oesophageal varices, bleeding peptic ulcer, gastric erosions, gastric carcinoma, uraemia and sometimes bleeding disorders).",
+      "",
+      "C)Odour(Smell):",
+      "Acrid (Disorders of the stomach), faecal (Intestinal obstruction or gastrocolic fistula, rarely ‘with paralytic ileus), putrid (Bacterial overgrowth of retained gastric contents or in fungating gastric carcinoma).",
+      "6.Associated symptoms:",
+      "a):",
+      " Burning or cutting epigastric or right hypochondrial Pain relieved by vomiting or antacids (Peptic ulcer) ",
+      "b):",
+      "Pain right hypochondrium with or without jaundice (Viral hepatitis, acute cholecystitis or pancreatitis). c) Colicky abdominal pain (Intestinal, renal or biliary colic). ",
+      "c):",
+      " Colicky abdominal pain (Intestinal, renal or biliary colic). ",
+      "d):",
+      "Diarrhoea (viral or bacterial gastroenteritis, sometimes, Addison’s disease, diabetic ketoacidosis, thyrotoxicosis and renal failure).",
+      "e):",
+      "Constipation (Hypercalcaemia and intestinal obstruction).",
+      "f):",
+      "Polyuria and polydipsia (Diabetic ketoacidosis, uraemia and hypercalcaemia). ",
+      "g):",
+      "Amenorrhoea in a female of child bearing age (Pregnancy or heyperemesis gravidarum). ",
+      "h):",
+      "Unconsciousness (Uraemia, Addison's disease, diabetic ketoacidosis, raised intracranial pressure).",
+      "i):",
+      "Headache (Migraine and raised intracranial pressure due to meningitis, encephalitis.or space Occupying lesion of the brain).",
+      "J):",
+      "Attacks of vertigo and deafness (Meniere's disease). ",
+      "7.Aggravating factors:",
+      "Spicy food (Peptic Ulcer),emotional upset( psychogenic vomiting), meat (Carcinoma stomach). ",
+      "8.Relieving factors:",
+      "Milk or antacids or ulcer healing drugs (Peptic Ulcer).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "1:",
+      "Dyspepsia (Peptic Ulcer, Pyloric stenosis and carcinoma Stomach) ",
+      "2:",
+      "Diabetes mellitus (Diabetic Ketoacidosis)",
+      "3:",
+      "Renal colic, dysuria, oliguria or anuria (Uraemia) ",
+      "4:",
+      "Abdominal operations (lntestinal Obstruction)",
+      "5:",
+      "Contact with a jaundice patient or injection or blood transfusion (Viral hepatitis)"
+    ]
+  },
+  "Faimly History": {
+    "name": [""]
+  },
+  "Personal History": {
+    "name": [""]
+  },
+  "Drug History": {
+    "name": [
+      "Ask about a history of the use of Digoxin, opiates, Iron preparations, Potassium chloride, oestrogens, aminophylline and other bronchodilators."
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1:",
+      "Gastroenteritis:- (See under Diarrhoea”) ",
+      "2:",
+      "Peptic ulcer:- (See under Dyspepsia) ",
+      "3:",
+      "Viral hepatitis:- (See under Jaundice’)",
+      "4:",
+      "Chronic renal failure:- (See under Polyuria’) ",
+      "5:",
+      "Addison’s disease:- (See under ‘Weight Loss’) ",
+      "6:",
+      "Migraine:- (See under Headache’)"
+    ]
+  }
+}

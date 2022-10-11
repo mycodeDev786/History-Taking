@@ -1,0 +1,94 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Anaemia is said to be present when the Concentration of haemoglobin in the blood falls below normal for age and sex (13 Gms % in males ànd 11.5 Gms % in females). Usually it manifests as pallor of the skin and mucus membranes.",
+      "COMMON CAUSES:",
+      "1:",
+      "Blood loss e.g. Post haemorrhagic anaemia ( acute or chronic bleeding)",
+      "2.Impaired red cell formation:",
+      "a)Due to deficiency of substances essential for erythropoesis e.g. iron deficiency anaemia and megaloblastic anaemia due to deficiency of vitamin B12 or folic acid.",
+      "b)Not due to deficiency of substances essential for erythropoesis e.g. anaemia associated with chronic infections, renal failure, liver disease, disseminated malignancy, collagen diseases, myxoedema and bone marrow infiltration by Leukaemia, lymphoma and multiple myeloma.",
+      "3.Increased destruction(Haemolytic anaemias):",
+      "a).Due to hereditary abnormalities of RBCs e.g. Thalassaemias, Glucose- 6-Phosphate Dehydrogenase deficiency, sickle cell disease, hereditary spherocytosis.",
+      "b).Autoimmune haemolytic anaemias due to warm or cold antibodies, physical trauma, drugs, infections or blood transfusion reactions.",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "A.Symptoms due to anaemia itself:",
+      "(Depend on the severity, rate of development of anaemia and the age of the patient, svmptoms are more severe with acute naemia and in old age). Note the symptoms of pallor, lassitude, tiredness, Breathlessness on exertion, muscular weakness, headache, dizziness, tinnitus, faintness, lack of concentration, drowsiness, numbness, coldness, amenorrhoea, anorexia, flatulence and in old patients with heart disease, angina and swelling feet.",
+      "B.Symptoms due to the underlying cause of anaemia e.g.:",
+      "1.Menorrhagia (Due to dysfunctional uterine bleeding Polyps, myomata and malignancy of the uterus).",
+      "2.Pregnancy (Commonest cause of anaemia in females)",
+      "3.Haematemesis and melaena and/or dyspepsia (Peptic ulcer, gastric erosions carcinoma stomach and, oesophageal varices).",
+      "4.Fresh blood in the stools i.e. Haematochesia (Piles, carcinoma rectum and colon, polypi, amoebic and bacillary dysentery).",
+      "5.Haematuria (Vesical tumours, renal tumours and calculi, urinary tract infection).",
+      "6.Haemoptysis (Pulmonary tuberculosis, bronchiectasis and bronchogenic carcinoma).",
+      "7.Bleeding tendency with easy bruisibility, bleeding gums, or epistaxis or menorrhagia (Thrombocytopenia) or bleeding into the joints or muscles (Haemophillia).",
+      "8.Fever (All chronic infections, collagen diseases, lymphomas and acute leukaemias, during haemolytic crisis).",
+      "9.Lymph-node  enlargement (Tuberculosis, lymphomas, Lymphocytic  leukaemias and  systemic lupus erythematosis).",
+      "10.Jaundice (Haemolytic anaemias and in chronic liver Disease).",
+      "11.Heaviness or mass in the left hypochondrium (Due to enlarged spleen in chronic myeloid leukaemia, myelofibrosis, lymphomas, thalassaemia, hypersplenism and chronic malaria).",
+      "12.Pain in the bones (multiple myeloma, secondaries in the bones and leukaemias).",
+      "13.Habit of dirt eating i.e. pica (Iron deficiency anaemia due to hookworm infestation and pregnancy).",
+      "14.Anorexia, nausea, vomiting, metallic taste in the mouth and polyuria (Chronic renal failure).",
+      "15.Numbness and loss of sensations (Folic acid and B12 deficiency, collagen diseases, sometimes in multiple myeloma, lymphomas and leukaemias).",
+      "16.Soreness of the tongue (Iron, Vitamin B12 and folic acid deficiency anaemia).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Enquire particularly about:",
+      "1:",
+      "Treatment of malignant Disease (Anaemia due to dissemination, or bone marrow depression by radiotherapy or anti-neoplastic drugs), use of kushtas or chloramphenicol (Aplastic anaemia).",
+      "2:",
+      "Chronic headache or joint disease (NSAID taken over a long time can cause significant occult bleeding to result in iron deficiency anaemia).",
+      "3:",
+      "Undue bleeding at the time of circumcision or minor Trauma (Bleeding diathesis).",
+      "4:",
+      "Previous hospital admissions and blood transfusions (indicates chronic anaemia).",
+      "5:",
+      "Previous history of jaundice (Liver disease) or urinary problems (Renal failure).",
+      ""
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "Similar disease in the family (Hereditary haemolytic anaemias and haemophilia)."
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "1:",
+      "Occupation e.g. farmer (Hookworm infestation causina iron deficiency anaemia), worker in rubber tyre industory (Aplastic anaemia).",
+      "2:",
+      "Dietary habits e.g. vegetarian (B12 deiciency anaemia), late weaning in children (Iron deficiency anaemia).",
+      "3:",
+      "In females menorrhagia or repeated pregnancies without any pre-natal care (Commonest cause of anaemia in females of child bearing age).",
+      "4:",
+      "Use of Kushtas (Aplastic anaemia due to heavy metals).",
+      ""
+    ]
+  },
+  "Drug History": {
+    "name": [
+      "Particularly enquire about the use of non-steroidal anti- inflammatory drugs (Iron deficiency Anaemia), antiepileptic drugs, sulphasalazine, Cotrimoxazole or Trimethoprin (Folic acid deficiency Anaemia), kushtas, Chloramphenicol,Phenylbutazone, Penicillamine, Gold salt or anti-neoplastic drugs (Aplastic Anaemia).  "
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Iron deficiency anaemia:",
+      "Apart from the other symptoms of anaemia the patient may complain of brittle or spoon shaped nails and sore lips or tongue. In children and pregnant females there may be history of perverted appetite and dirt eating i.e. Pica There may be history of passage of worms in the stools which is an indirect evidence of hookworm infestation (the commonest cause in male) or repeated pregnancies or menorrhagia in females of child bearing age (commonest cause in females). History of blood loss e.g. Haemetemesis, melaena, Bleeding piles or  haematuria may be available.",
+      "2.Vitamin B12 and Folic acid deficiency anaemias:",
+      "Both these types of anaemias usually present with almost similar symptoms. Depending upon the severity of anaemia apart from other symptoms of anaemia the patient may complain of soreness of the tongue, dyspepsia and numbness of the legs. In patients with pernicious anaemia there may be history of ataxia and depigmentation of the skin and patient may be a vegetarian or may also be suffering from other autoimmune diseases like hypothyroidism or diabetes mellitus. There may be history of the use of anti-epileptic drugs, sulphasalazine, trimethoprim or malabsorption syndrome in cases with folic acid deficiency anaemia.",
+      "3.Aplastic anaemia:",
+      "These patients often present with severe anaemia and the common symptoms of anaemia are not different from other causes. However history of fever with repeated infections particularly of upper respiratory tract with or without bleeding tendency may be very suggestive. There may be history of the use ot kushtas, antibiotics especially chloramphenicol and sulphonamides or treatment for malignant disease in the past. Often these patients give history of repeated blood transfusions as there is no response to other drugs used for the treatment of anaemia.",
+      "4.Haemolytic anaemias:",
+      "See under Jaundice.",
+      ""
+    ]
+  }
+}

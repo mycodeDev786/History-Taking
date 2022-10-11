@@ -1,0 +1,79 @@
+{
+  "Common Causes": {
+    "name": [
+      " DEFINITION:",
+      "Presence of blood in the urine is called haematuria. Haematuria may be gross or microscopic (in excess of 2 RBC /HPF). It is usually the gross haematuria which can be diagnoséd by the history. However, all cases of red or brown coloured urine are  not due to haematuria as haemoglobinuria, myoglobinuria, porphyria and some drugs can cause similar discolouration of the urine. Therefore, if a patient complains of haematuria, it should always be confirmed by microscopic examination of the urine for the presence of RBC.",
+      "CAUSES:",
+      "1:",
+      "Renal Diseases e.g. Renal calculi, pyelonephritis, tumours of the kidney, renal infarction or tuberculosis and IGA nephropathy (Berger's disease)",
+      "2:",
+      "Diseases of the urinary bladder e.g. Cystitis, vesical calculus and vesical tumours",
+      "3:",
+      "Uretheritis and prostatitis",
+      "4:",
+      "Bleeding diathesis e.g. Thrombocytopenic purpura, anti- coagulant therapy",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Duration:",
+      "Short (Cystitis, pyelonephritis, renal and vesical tumours, renal trauma and infarction), long (Renal or vesical calculi and benign recurrent haematuria)",
+      "2.Onset:",
+      "Sudden (Renal and vesical tumours, renal trauma or infarction, bleeding diathesis), gradual (Cystitis or traur pyelonephritis), in attacks (Renal or vesical calculi, lgA nephropathy).",
+      "3.Painful or painless:",
+      "Painful (Cystitis, pyelonephritic , renal or vesical calculi, urethritis, prostatitis or renal infarction) painless (Renal or vesical tumours, polycystic kidneys, bleeding diathesis and benign recurrent haematuria)",
+      "4.Timing during micturition:",
+      "At the beginning of Micturition (Urethritis), at the end of micturition (Cystitis or renal prostatitis) or uniformly throughout micturition (All renal diseases and bleeding diathesis).",
+      "5.Colour of the urine:",
+      "Bright red (massive bleeding), brown or smoky (Mild bleeding). However, the latter could be due to haemoglobinuria, myoglobinuria, porphyria or drugs and needs a microscopic examination of the urine to diagnose it as it can not be definitely diagnosed on the basis of history alone.",
+      "6.Aggravating factors:",
+      "Dehydration (Renal and vesical calculi, urinary tract infection), exercise (IgA nephropathy)",
+      "7.Associated symptoms:",
+      "a):",
+      "Fever (Pyelonephritis, renal tuberculosis, rarely renal tumours).",
+      "b):",
+      "Dysuria (Cystitis, crystalluria in renal or vesical calculi, urethritis or prostatitis).",
+      "c):",
+      "Urethral discharge (Gonococcal or non-gonococcal urethritis).",
+      "d):",
+      "Abdominal pain in the lumbar or hypogastric region: dull (UTI), colicky (Renal or vesical calculi).",
+      "e):",
+      "Mass in the lumbar region: unilateral (Renal tumour or bilateral (Polycystic kidneys).",
+      "f):",
+      "Bleeding from other sites e.g. gums, teeth or gastrointestinal tract or in the skin (Bleeding diathesis).",
+      "g):",
+      "Symptoms of anaemia i.e.  pallor, palpitations, fatiguibility, breathlessness and dizziness depending upon the severity and rapidity of bleeding.",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      " Of similar symptoms (renal and vesical calculi, urinary tract infections or sexual contact (Gonococcal and non-Gonococcal urethritis ), previous operations for renal or vesical calculi or other investigations done and their results. "
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "Of large kidneys or chronic renal failure (Polycystic kidneys or renal calculı) or bleeding tendency."
+    ]
+  },
+  "Personal History": {
+    "name": ["Not Enough Data"]
+  },
+  "Drug History": {
+    "name": [" About the use of heparin or oral anti-coagulant drugs."]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1:",
+      "Renal and vesical calculi:- The haematuria due to Vesical or renal calculi is not a common manifestation. When it is gross, haematuria is usually painful, recurrent and gradual. Often gravel or concretion is passed during an episode of haematuria. Dominant symptoms are usually of colicky pain in the lumbar or hypogastric area which may or may not be associated with symptoms of urinary tract infection. (See under “pain lumbar region”).",
+      "2:",
+      "Urinary tract infection:- (Also see under “Pain lumbar region”). Haematuria is gradual, minimal and depending upon the Site of infection it may occur during early (Uretheritis), late (cystitis) or throughout the stream of urine. However, more prominent symptoms in UTI are burning in the urethra with or without discharge (Uretheritis),  or pain in the hypogastrium and  Dysuria (cystitis) or pain in the lumbar regions (Pyelonephritis).",
+      "3:",
+      "Urinary tract tumours : The predominant symptom in these tumours is sudden onset of painless, persistent haematuria which may be massive. This may or may not be associated with a history of mass in one or the other lumbar region (Renal tumours) or in the hypogastrium (Vesical tumours). There may be history of weight loss and in the case of hypernephroma of the kidney, fever may be associated.",
+      "4:",
+      "IgA nephropathy (Berger's disease): The patient is usually a healthy young person with history of recurrent episodes of painless haematuria which may be precipitated by vigorous exercise. Although vague constitutional symptoms may be present, abdominal pain is absent. Although previously called benign recurrent haematuria, it is not really benign because on follow up many of these patients develop symptoms of chronic renal failure.",
+      ""
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "Common Causes": {
+    "name": [
+      "1:",
+      "Angina pectoris",
+      "2:",
+      "Myocardial infarction",
+      "3:",
+      "Psychogenie chest pain (De Costa’s syndrome)",
+      "4:",
+      "Non-specific (Musculoskeletal) chest pain",
+      "5:",
+      "Pneumonia",
+      "6:",
+      "Pneumothorax",
+      "7:",
+      "Pericarditis",
+      "8:",
+      "Pulmonary embolism",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Age:",
+      "Young adults (Psychogenic chest pain, non- specific chest pain, pneumothorax), middle-aged and old patients (Angina pectoris and myocardial infarction), all ages (Pneumonia and pulmonary embolism).",
+      "2.Sex:",
+      "Male (Angina pectoris and myocardial infarction), young females (Pulmonary embolism), either sex (all other causes of chest pain).",
+      "3.Site:",
+      "Retrosternal (Angina pectoris, myocardial infarction, reflux oesophagitis and sometimes pericarditis); Precordial region (De Costa’s syndrome, pericarditis), anywher in the chest (Musculoskeletal chest pain, pneumonia and pulmonary embolism).",
+      "4.Character:",
+      "Crushing, pressure-like or heaviness (Angina pectoris and myocardial infarction,) dull (Pericarditis and pleurisy), pricking (Psychogenic chest pain), burning (Reflux oesophagitis).",
+      "5.Radiation:",
+      "Radiation to the neck, left shoulder and the inner side of the left arm, rarely to the right shoulder and arm (Angina pectoris, myocardial infarction and pericarditis), no specific radiation (all other causes of chest pain).",
+      "6.Duration of an Attack:",
+      "Few minutes, usually less Than 30 minutes (Angina pectoris), often more than 30 minutes, upto few hours (Myocardial infarction), a few seconds (Cardiac neurosis), Continuous for hours to days ( Pleurisy, pericarditis and musculoskeletal chest pain).",
+      "7.Aggravating Factors:",
+      "Cough and respiration (Pleurisy, pericarditis and musculoskeletal chest pain), exertion (Angina pectoris, myocardial infarction), lying (Reflux oesophagitis), pressure (Musculoskeletal chest pain, pleurisy and pericarditis).",
+      "8.Relieving Factors:",
+      "Sublingual nitroglycerine or isosorbide dinitrate (Angina pectoris,sometime reflux  Oesophagitis), pethidine, morphine or other strong analgesics (Myocardial infarction, also in other causes of chest pain), antacids (Reflux oesophagitis).",
+      "9.Associated symptoms:",
+      "a.Fever:",
+      "(Pneumonia, pericarditis, after Myocardial infarction).",
+      "b.Cough:",
+      "Dry (Pleurisy), frothy sputum (Left ventricular failure due to myocardial infarction), blood-stained sputum (Pulmonary infarction due to embolism), rusty or yellowish sputum (Pneumonia).",
+      "c.Sweating:",
+      "Cold sweating (Myocardial infarction), Sweating with fever (Pneumonia).",
+      "d:",
+      "Symptoms of anxiety (Cardiac neurosis).",
+      "e.Breathlessness:",
+      "A nonspecific symptom associated with pneumonia, myocardial infarction, pulmonary embolism, pneumothorax and even cardiac neurosis.",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "1:",
+      "Previous good health (Spontaneous pneumothorax,  pulmonary embolism).",
+      "2:",
+      "Chronic bronchitis and bronchial asthma (Pneumothorax).",
+      "3:",
+      "Hypertension or diabetes mellitus or previous heart Attack (Angina pectoris and myocardial infarction)",
+      "4:",
+      "Symptoms of anxiety (Cardiac neurosis).",
+      ""
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "Of heart attack (Angina pectoris and myocardial infarction),recent death of a near relative (Cardiac neurosis). "
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "Smoking (Angina’ pectoris and myocardial infarction), use of contraceptive pills in young females (Pulmonary infarction due to pulmonary embolism). "
+    ]
+  },
+  "Drug History": {
+    "name": ["Not Enough Data"]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Angina pectoris:",
+      "Patient usually presents with sudden, severe, pressure-like, retrosternal chest pain radiating to the neck, left shoulder and inner side of the arm, sometimes to the right shoulder and arm, brought on by exertion and relieved by rest. However, it may occur on lying (Angina decubitus), or at rest (Unstable angina). Duration of pain is usually a few minutes and rarely more than 30 minutes. It is often relieved by sublingual nitroglycerine or isosorbide dinitrate. It is usually not associated With sweating or breathlessness. Usually the patient is a middle aged man who may be diabetic, hypertensive or smoker with a family history of heart attacks.",
+      "2.Myocardial infarction:",
+      "Usual description of pain is Similar to that of angina pectoris except that it is more of pain is similar to severe, may come even at rest lasts more than 30 minutes, does nodoes not respond to sublingual coronary vasodilators, needs strong analgesics e.& morphine or pethidine for its relief and is often associated with weakness, breathlessness, cold sweating and fear of impending death. Fever may occur a few days after myocardial infarction.",
+      "3.Pleurisy:",
+      "Pain due to pleurisy can be due to pneumonia or pulmonary infarction secondary to pulmonary embolism. In a previously healthy person there is severe, dull or sharp pain in a specific area of the chest. Pain is continuous, localized, aggravated by taking a deep breath, often accompanied by fever and cough which may be dry at first and later on productive of sputum (See chapter on cough and sputum). Patient likes to lie on the affected side. The pain is not related to exertion and analgesics transiently relieve the pain.",
+      "4.De Costa’s syndrome(Cardiac neurosis):",
+      "The patient is often a young anxious person and may have a history of recent death in the family from myocardial infarction or the patient may be related to medical profession (Medical students, nurses or doctors). Patient usually complains of pricking, precordial chest pain only for a few seconds but often repeated with palpitations, Sweating, insomnia, weakness, numbness of the body and difficulty in breathing. There is no relation to exertion and pain is not often relieved by coronary vasodilators. ",
+      "5.Pericarditis:",
+      "Patient develops dull, continuous, retrosternal or precordial chest pain which may radiate to the same sites as in angina or myocardial infarction, aggravated by breathing or Coughing and relieved by sitting or leaning forward. There is usually no effect of coronary vasodilators.",
+      "6.Pneunmothorax:",
+      "Patient is often a previously healthy young person or a patient with a previous history of bronchial asthma, Chronic bronchitis or pulmonary tuberculosis, who gets sudden, sharp chest pain on the affected side and then becomes breathless cyanosed (depending upon the extent of pneumothorax),  which may persist until treated. Unless there is underlyıng or Super-added infection, there is no fever or sputum but a persistent dry cough may be present.",
+      "7.Pulmonary embolism and infarction:",
+      "Patient may be a young female taking contraceptive pills or a bedridden obese person (Postoperative, postpartum case or after myocardial infarction), who develops symptoms of deep venous thrombosis. However, these symptoms may be absent. There is sudden, severe chest pain followed by breathlessness and cyanosis. If the patient survives, initial sharp pain is replaced by dull pleuritic chest pain due to pulmonary infarction which is aggravated by cough and deep breathing. Cough may be productive of bloody sputum. In severe cases symptoms of right heart failure may be present.",
+      "8.Reflux oesophagitis:",
+      "Patient gives history of burning, retrosternal, constant chest pain which is aggravated by lying flat and relieved by sitting, sleeping with head-end of the bed raised or by antacids.",
+      ""
+    ]
+  }
+}

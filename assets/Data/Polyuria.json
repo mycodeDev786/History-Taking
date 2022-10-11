@@ -1,0 +1,103 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Polyuria means passage of more than 5 litres of urine in 24 hours. It usually manifests as increased frequency of micturition with large volume of urine passed every time.",
+      "CAUSES:",
+      "1:",
+      " Diabetes mellitus",
+      "2:",
+      "Diuretic therapy",
+      "3:",
+      "Chronic renal failure",
+      "4:",
+      "Compulsive water drfailure",
+      "5:",
+      " Hypercalcaemia ",
+      "6:",
+      "Diabetes inspidus ",
+      "7:",
+      "Following defervescence of fever",
+      "8:",
+      "Following an attack of supra-ventricular tachycardia ",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Onset:",
+      "Sudden, patient even remembering the time and the date of onset of symptoms (Diabetes inspidus), gradual (Diabetes mellitus, chronic renal failure, hypercalcaemia compulsive water drinking), under special circumstances (Diuretic therapy, following defervescence of fever or an attack of supraventricular tachycardia).",
+      "2.Frequency of micturition:",
+      "How many any times the patient passes urine in 24 hours?. This information can help to monitor the progress of the patient but cannot help in diagnosis becaus increased frequency of micturition can also occur due to urinary tract infection, when in contrast to polyuria very small quanuties of urine are passed every time.",
+      "3.Timing of Urine Passed:",
+      "During day time only (Compulsive water  intake), during day and night (All other causes of polyuria).",
+      "4.Volume of Urine Passed:",
+      "Large volumes of urine passed every time (Polyuria), small volume of urine passed every time (Urinary tract infection or prostatism).",
+      "5.Type of fluid Taken:",
+      "Ice cold water (Diabetes Inspidus), sweet drinks (Diabetes mellitus), any type of fluid ( all other causes of polyuria). ",
+      "6. Associated symptoms:",
+      "a:",
+      "Polydipsia, polyphagia, numbness, weakness,. Visual disturbances and ants collecting at the urine (Diabetes mellitus).",
+      "b:",
+      "Headache and/or visual disturbances (Diabetes inspidus).",
+      "c:",
+      "Anorexia, nausea, vomiting, diarrhoea, metallic taste in the mouth, hiccough, pallor and breathlessness (Chronic renal faillure).",
+      "d:",
+      "Anorexia, nausea, vomiting, constipation and bone pains (Hypercalcaemia).",
+      "e:",
+      "Symptoms of disorders for which diuretics are being given e.g. exertional dyspnoea, paroxysmal nocturnal dyspnoea, orthopnoea, swelling feet and pain right hypochondrium (Congestive cardiac failure), distension abdomen, discomfort left hypochondrium with or without jaundice (Cirrhosis liver), periorbital swelling, distension abdomen and swelling feet (Nephrotic syndrome)",
+      "f:",
+      "Symptoms suggestive of anxiety or depression (Compulsive water drinking or psychogenic polydipsia)",
+      "g:",
+      "History of attack of palpitations or high fever before polyuria.",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Ask about:",
+      "1:",
+      "Previous head injury or operation on pituitary (Diabetes inspidus).",
+      "2:",
+      "Treatment for diabetes mellitus",
+      "3:",
+      "Renal colic, pain in lumbar region or symptoms of prostatism (Chronic renal failure).",
+      ""
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "Ask about other relatives suffering from:",
+      "1:",
+      "Diabetes mellitus",
+      "2:",
+      "Renal failure (Polycystic kidneys)",
+      ""
+    ]
+  },
+  "Personal History": {
+    "name": ["Not Enough Data"]
+  },
+  "Drug History": {
+    "name": [
+      "Ask about the use of diuretics e.g. frusemide, Bumetinide, spironolactone etc, steroids and any previous treatment for diabetes mellitus with dose of the drugs used."
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Diabetes mellitus:",
+      "This disease can occur in children, adults or in old age, Usual history is of polyuria, polydipsia and sometimes polyphagia. Large volumes of urine are passed on which ants may collect. This causes dehydration, weakness, weight loss and if untreated may lead to coma in younger patients. It is often associated with delayed healing of wounds, pain in the limbs, generalised itching and loss of sensations which may cause deep painless ulcers on the feet. These patients are often very fond of sweet drinks and food. There may be a history of other relatives suffering from diabetes mellitus.",
+      "2.Diuretic therrapy:",
+      "Often the symptoms of the disease for which the diuretics are being given, are more prominent than polyuria due to diuretics. Such a patient will have symptoms of congestive cardiac failure or cirrhosis liver or nephrotic  for which a diuretic e.g. .frusemide, spironolactone or some combination diuretic is being used. past histo history of symptomS suggestive",
+      "3.Chronic renal failure:",
+      "Such a patient usually has a past history of symptoms suggestive of  repeated urinary tract infections, prostatism or renal colic. Polyuria is not as troublesome for the patient as are the symptoms of anorexia, hiccough,nausea, Vomiting, diarrhoea, metallic taste in the mouth, pallor and breathlessness. In some cases e.g. polycystic disease of the kidneys, there Could be a family history of relatives having or dying of a similar disease. ",
+      "4:",
+      "Compulsive water drinking In such a patient there are often symptoms suggestive of anxiety or depression. Polyuria is the result of excessive intake of water, which rarely wakes the patient from sleep.",
+      "5.Hypercalcaemia:",
+      "Polyuria results from a decreased Concentrating power of the kidneys due to moderate to severe Hypercalcaemia. Symptoms include anorexia, nausea, Vomiting, constipation, gritty red eyes and if untreated can lead to confusion and coma.",
+      "6.Diabetes inspidus:",
+      "There is a very sudden onset of polyuria and polydipsia with patient having a special craving for be Ice-cold water. Headache and visual disturbances may be associated. There may be a past history of head injury or pituitary operation.",
+      ""
+    ]
+  }
+}

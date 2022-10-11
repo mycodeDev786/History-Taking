@@ -1,0 +1,131 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Diarrhoea may be defined as increase in the frequency or fluidity, or both, of the stools. In western countries with refined diets it usually means daily stool weight in excess of 300 grams (with about 250 mls. of water). ",
+      "COMMON CAUSES:",
+      "1.Infectious diarrhoea:",
+      "a):",
+      " Protozoal e.g. Anoebiasis, Giardiasis ",
+      "b):",
+      " Bacterial e.g. Bacillary dysentery. Food poisoning due to salmonella, Clostridia and E. Coli, Cholera, lntestinal tuberculosis",
+      "c):",
+      "Viral e.g. Rotavirus, Enteroviruses",
+      "2:",
+      "Irritable bowel syndrome",
+      "3.Inflammatory bowel disease:",
+      "e.g. Ulcerative  Colitis and Crohn’s Disease",
+      "4.Malabsorption syndromes:",
+      "e.g. Coeliac disease,Tropical sprue, Lactase deficiency, chronic pancreatitis",
+      "5. Endocrine disorders:",
+      "e.g: Addison’s disease, hyperthyroidism, Diabetes mellitus with autonomic neuropathy",
+      "6. Tumours:",
+      "e.g. Villous adenoma, colonic carcinonma and Carcinoid tumors ",
+      "7. Drugs:",
+      "e.g. Antibiotics. Antacids containing Mg. Laxatives. Antihypertensive agents and cholinergic drugs",
+      "8. Miscellaneous:",
+      "Diverticulitis, Traveller’s diarrhoea, Sometimes roundworm, tapeworm, and  hookworm infestations, psychogenic diarrhoea.",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Age at onset:",
+      "Adolescence or early adult life  (Tuberculosıs, Irritable bowel syndrome, ulcerative colitis and crohn’s, disease), middle or old age (Carcinoma Colon, diverticulitis and pancreatic diseases), any age (Most infectious, drug induced and endocrine disorders).",
+      "2.Duration and course:",
+      "Acute onset with a course of Few days (Viral gastroenteritis, bacillary dysentery. Amoebic dysentery, food poisoning due to salmonella. Clostridia, E.Coli, Cholera. Travellers diarrhoea and psychogenic diarrhoea due to stress), acute onset with long course (Ulcerative colitis, Crohn’s disease, diverticulitis and cathartic abuse). Gradual onset with long course and periods of freedom (Diarrhoea due malabsorption, endocrine diseases and irritable bowel syndrome).",
+      "3.Pattern of diarrhoea:",
+      "Continuous (Ulcerative 3. Colitis. Crohn’s disease, laxative abuse and intestinal fistulas), Intermittent (Psychogenic diarrhoea, malabsorption syndrome and diverticulitis) or diarrhoea alternating with constipation (intestinal tuherculosis, irritable bowel syndrome, excessive use of laxatives. Carcinoma of the colon and diverticulosis).",
+      "4.Frequency of the stools:",
+      "Ask about the number of motions passed since the onset of diarrhoea or in chronic cases in 24 hours. Although this information does not help in diagnosis, It is important to judge the need of urgency for treatment and to check the response to the treatment",
+      "5.Character of the stools:",
+      "a).Quantity and consistency:",
+      "Small quantity of solid or Semisolid stools (Irritable bowel syndrome and cathartic abuse),. Copious amounts of watery stools (Viral  gastroenteritis, cholera, Villous adenoma and vipoma drug induced diarrhoea and often in diarrhoea due to endorcine disorders), semisolid stools of variable quantity (Amoebic and bacillary dysentery, ulcerative colitis, Crohn’s disease), bulky, watery and greasy stools (Malabsorption syndrome).",
+      "b).Presence of mucus, pus or blood:",
+      "Stools containing mucus without pus or blood (Irritable colon and chronic amoebiasis) mucus and blood (Amoebie dysentery, ulcerative colitis Crohn’s disease  pseudomembranous colitis). Blood and pus (Bacillary dysentery, sometimes ulcerative colitis and Crohn’s disease), Soft nonfatty stools (Gastric diarrhoea), Bulky fatty offensive stools which are difficult to flush (Malabsorption syndrome).",
+      "6.Diurnal variations and relationship to meals:",
+      "Occurring primarily in the morning and after meals (Gastric disorders. Psychogenic diarrhoea, ulcerative colitis and Crohn’s disease), no diurnal variations (infectious diseases), nocturnal (Characteristic of diabetic neuropathy but not specifie for it because any severe diarrhoea can occur at night). Nocturnal diarrhoea is usually due to an orgaic cause.",
+      "Associated symptoms:",
+      "a):",
+      "Tenesmus (Any intlammatory disease of the bowel with anorectal involvement e.g. Amoebic and bacillary dysentery, ulcerative colitis, Crohn’s disease and anorectal carcinoma).",
+      "b):",
+      "Abdominal cramps relieved by defecation (Small intestinal disease), abdominal cramps persisting after defecation (Large intestinal disease).",
+      "c):",
+      "Fever (Viral gastroenteritis, Bacillary dysentery, Tuberculous colitis, Ulcerative colitis, Crohn’s disease and pseudomembranous colitis).",
+      "d):",
+      "Vomiting (Viral gastroenteritis, Addison’s disease, rarely drug induced diarrhoea, ulcerative colitis and Crohn’s disease).",
+      "e):",
+      "Weight loss: In the presence of normal Appetite (Hyperthyroidism, malabsorption syndrome), preceding diarrhoea (Carcinoma colon or other malignancy, tuberculosis, diabetes mellitus, hyperthyroidism and malabsorption), No weight loss despite long-standing diarrhoea (Irritable colon and psychogenic diarrhoea).",
+      "f):",
+      " Joint pains (Ulcerative Colitis, Crohn’s disease and reactive arthritis)",
+      "g):",
+      "Painful red eyes (Ulcerative colitis and Crohn’s disease)",
+      "h):",
+      "Skin rash (Ulcerative colitis, Crohn’s disease Dermatitis herpetiformis).",
+      "i):",
+      "Polyuria, polydipsia and impotence (Diabetic autonomic neuropathy).",
+      "j):",
+      "Intolerance to heat, weight loss despite good appetite and prominence of eyes (Hyperthyroidism).",
+      "k):",
+      "Darkening of the skin (Addison’s disease).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Particularly note a past history of",
+      "1:",
+      "Similar symptoms (Ulcerative colitis and Crohn’s disease).",
+      "2:",
+      " Attacks of diarrhoea at the time of stress (Psychogenic diarrhoea).",
+      "3:",
+      "Skin rash (Dermatitis herpetiformis)",
+      "4:",
+      "Diabetes mellitus.",
+      "5:",
+      "Operations on the stomach or intestines."
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      " Similar symptoms occurring in Otner Family members partaking the same food (Food poisoning). Rarely ulcerative colitis and Crohn’s disease may run in the families. "
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "Any intolerance to wheat and wheat products (Coeliac disease) or milk and milk products (Lactase deficiency). Also note any food allergies. "
+    ]
+  },
+  "Drug History": {
+    "name": [
+      "Enquire about the use of ",
+      "1:",
+      "Laxatives for habitual costipation (Laxative Abuse)",
+      "2:",
+      "Broad spectrum antibiotics especially clindamycin and lincomycin (Pseudo-membranous colitis), Ampicillin, amoxycillin and tetracyclines (Diarrhoea due to irritant effect). Neomycin (Malabsorption). Also note the drugs being used for treatment of diarrhoea.",
+      ""
+    ]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Amoebic dysentery:",
+      "This is the most common cause of diarrhoea in endemic-areas. In acute stage it causes frequent, semisolid to loose stools with blood and mucus. Often there is tenesmus and griping abdomnal pain. In chronic stage there are occasional semisolid motions with mucus in the stools and associated pain in right iliac fossa. Rarely there, may be he constipation. If untreated pain in the right hypochondrium and fever with rigors may occur due to Amoebic hepatitis or amoebic liver abscess. There is a good response to anti-amoebic drugs (e.g. Metronidazole and tinidazole)",
+      "2.Bacillary dysentery:",
+      "Patient presents with sudden onset of fever, Diarrhoea, and pain in the lower abdomen mainly in iliac fussa. Stools are mixed with pus and blood and may be seanty. There is usually a good response to antibiotics:",
+      "3.Non-specific Diarrhoea:",
+      "It is a self-limiting diarrhoea usually caused by viral infections or the enterotoxins produced by shigella, salmonella, vibrio, clostridia  causing viral gastroenteritis or food poisoning in patients partaking the same food. There is often painless watery diarrhoea with very frequent stools. There may be associated fever and vomiting. Diarrhoea responds to symptomatic treatment.",
+      "4.Irritable bowel syndrome:",
+      "(Spastic or mucus colitis). ",
+      "The patients are often tense, irritable individuals often with symptoms of anxiety complaining of passage of scanty, semisolid stools containing mucus alternating with constipation . There may he flatulence and discomfort in the epigastrium (Non-ulcer dyspepsia). Despite symptoms of anorexia and long history there is no weight loss.",
+      "5.Ulcerative colitis:",
+      "The disease may start acutely with severe diarrhoea. Fever, tenesmus, blood, mucus and pus in the stools. Occasionally, there may be frequent semi-solid motions with tenesmus. These features may be associated with rash on the shins. Red eyes with pain and swelling of the joints. Remissions and exacerbations are common. Severe distension of the abdomen in an acute attack indicates toxic megacolon and needs emergency treatment. Diarrhoea responds to steroids or sulpha- salazine.",
+      "6.Crohn’s Disease:",
+      "This is a granulomatous disease of the Intestines which ofteh presents acutely with fever, pain in the right iliac fossa and diarrhoea containing mucus, pus and blood and is associated with tenesmus. Although remissions and exacerbations do occur, with the passage of time complications Result in intestinal perforation and fistulas and patient with chronic disease often has history of corrective operations.  As in ulcerative colitis there may be associated skin, eye or joint involvenment.",
+      "7.Malabsorption syndrome:",
+      "Diarrhoea is often continuous with the passage of painless, bulky, offensive and greasy stools which are difficult to flush. There is often flatulence, abdominal distension and weight loss despite good appetite. Associated symptoms may include bone pains (Osteomalacia), skin pigmentation (Pellagra), pallor (Iron, folic acid and Vitamin B12 deficiency anaemia), symptoms Indicating the underlying cause may include polyuria and polydipsia (Diabetic diarrhoea), poly- arthritis (Crohn’s disease),jaundice (Biliary cirrhosis), intolerance to the products of wheat (Coeliac disease), intolerance to milk or milk products (Lactase deficiency or lactose intolerance), itchy eruption preceding diarrhoea (Dermatitis herpetiformis) or cough and expectoration of foul smelling sputum since childhood (Mucoviscidosis).",
+      "8.Nervous diarrhoea:",
+      " Diarrhoea consists of watery stools with hardly any faecal material Occurring in tense, neurotic individuals at the time of stress, e.g examinations and interviews. Diarrhoea is usually self limiting .",
+      ""
+    ]
+  }
+}

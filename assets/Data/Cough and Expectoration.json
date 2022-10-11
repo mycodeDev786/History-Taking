@@ -1,0 +1,139 @@
+{
+  "Common Causes": {
+    "name": [
+      "1.Upper respiratory tract infections:",
+      "a.Pharyngitis",
+      "b.Tonsillitis",
+      "c.Sinusitis ",
+      "d.Tracheitis",
+      "2.Lower respiratory tract infections:",
+      "a.Acute and chronic bronchitis",
+      "b.Lung abscess:",
+      "c.Bronchiectasis",
+      "d.Pulmonary tuberculosis",
+      "e.Pneumonia",
+      "3:",
+      "Bronchial asthma and chronic Bronchitis ",
+      "4:",
+      " Pulmonary fibrosis including pneumoconiosis ",
+      "5:",
+      "Malignant diseases e.g. Carcinoma bronchus and carcinonma larynx",
+      "6:",
+      "Cardiac diseases e.g. Pulmonary oedema ",
+      "7:",
+      "Neurological diseases e.g. Recurrent laryngeal nerve palsy",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Duration:",
+      "Long standing (Chronic bronchitis, bronchial asthma, chronic sinusitis, bronchiectasis, pulmonary fibrosis), recent onset (Acute tonsillitis and pharyngitis, pneumonia, acute bbronchitis and tracheobronchitis, acute pulmonary oedema and bronchitis and recurrent laryngeal nerve palsy).",
+      "2.Onset:",
+      "Sudden (Acute bronchitis, acute pulmonary  Oedema and foreign body), in attacks (Bronchial asthma, pulmonary oedema), gradual (Pneumonia, chronic sinusitis and bronchitis, pulmonary tuberculosis, lung abscess and , bronchiectasis).",
+      "3.Dry or productive:",
+      "Dry cough (In early stages of most Of the respiratory Inections, dry pleurisy, pulmonary fibrosis, recurrent laryngeal nerve palsy), productive (in all established respiratory infections and pulmonary oedema).",
+      "4.Sputum:",
+      "If the cough is productive, ask about",
+      "a.Colour:",
+      "Frothy white, sometimes mixed with blood a (Pulmonary oedema), rusty (Resolution stage of lobar pneumonia), yellowish (most pyogenic infections), greenish (Pseudomonas infection usually in lung abscess and bronchiectasis), brick red (Klebsiella infections), anchovy sauce (Ruptured amoebic liver abscess), black (Coal miner, s lung) or containing blood i.e. haemoptysis (Pulmonary tuberculosis, lung abscess, bronchiectasis and bronchogenic carcinoma).",
+      "b.Odour:",
+      "Foul smelling (Anaerobic or mixed infections e.g. lung abscess and bronchiectasis). ",
+      "c.Quantity:",
+      "Ask about rough estimate of the quantity of Sputum expectorated in 24 hours e.g. how many cupful: Scanty (Bronchial asthma, pharyngitis, acute bronchitis and tracheo-bronchitis), moderate (Chronic bronchitis, resolution stage of pneumonia and pulmonary oedema), large (Bronchiectasis and lung abscess).",
+      "d:",
+      "Character of sputum: Frothy (Pulmonary oedema), mucoid, difficult to expectorate, with thread formation (Bronchial asthma), mucopurulent (Acute exacerbations of bronchial asthma and Chronic bronchitis)",
+      "e:",
+      "Relation to posture and behavior on collection .More sputum production when lying on one side (Disease of the opposite lung), more sputum production when leaning forward (Disease or the lung base e.g abscess and bronchiectasis), more sputum production on waking (Lung abscess and bronchiectasis), formation of three layers on collection of sputum in a container (Lung abscess and bronchiectasis). These layers are from above of downward: foam, fluid and sediment. ",
+      "f.Effect of expectoration on breathing:",
+      "In most of the cases breathing is easier after expectoration but this is more remarkable in bronchial asthma.",
+      "5.Diurnal and day to day variations of cough:",
+      "Cough worse at night (Bronchial asthma, pulmonary oedema and rarely chronic bronchitis) or on first day of the week on duty after the weekend (Bagassosis), no definite diurnal variation (Most other causes of cough). ",
+      "6:",
+      "Character of cough:- Note the character of cough when the patient is requested to cough: brassy (Tracheal compression), bovine (Recurrent laryngeal nerve palsy) Barking (Tracheobronchitis), whooping (Pertussis).",
+      "7.Associated symptoms:",
+      "Ask about:",
+      "a):",
+      " Wheeze (Bronchial asthima, acute pulmonary oedema many cases of chronic bronchitis).",
+      "b):",
+      "Attacks of breathlessness (Bronchial asthma and acute pulmonary oedema).",
+      "c):",
+      "Breathlessness on exertion, paroxysmal nocturnal exertion, dyspnoea and orthopnoea (Left ventricular failure .",
+      "d):",
+      "Pleuritic chest pain (Pleurisy due to lobar pneumonia and pulmonary infarction) ",
+      "e):",
+      "Fever (Tuberculosis and all acute respiratory infections).",
+      "f):",
+      "Postnasal discharge (Acute and chronic sinusitis).",
+      "g):",
+      "Weight Loss (Bronchogenic carcinoma, all chronic  respiratory infections Particularly pulmonary tuberculosis, lung abscess and bronchiectasis).",
+      "8.Aggravating factors:",
+      "Dust or fumes. (Bronchial asthma and to some extent chronic bronchitis), lying on the unaffected side (all unilateral respiratory diseases), exercise (Atopic asthma), cold drinks and bitter food (most of the respiratory infections), Beta receptor blocking drugs (Bronchial asthma and chronic receptor bronchitis).",
+      "9. Relieving factors:- Bronchodilators e.g. aminophylline and salbutamol (Bronchial asthma and to some extent acute and chronic bronchitis and pulmonary oedema), Prednisolone (Bronchial asthma, to some extent acute or chronic bronchitis), Diuretics and digoxin (Heart failure). ",
+      "10.Course:",
+      "Attacks with relief in between (Bronchial asthma), progressive worsening unless treated (Pulmonary fibrosis and heart failure), usuàlly static with acute exacerbations off and on (Chronic sinusitis, tonsillitis and bronchitis). ",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Ask about the past history of",
+      "1.Measles or whooping cough in childhood  (Bronchiectasis).",
+      "2.Any past history of pulmonary tuberculosis and any treatment taken (Relapse or bronchiectasis as a complication).",
+      "3.Rheumatic fever, hypertension, history suggestive of  angina pectoris or heart attack (Acute pulmonary oedema due to these diseases).",
+      "4.All previous hospital admissions, investigations done, treatment given, response to treatment and information given to the patient regarding prognosis.",
+      ""
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "Ask about:",
+      "1:",
+      "History of similar symptoms in other family members (Pulmonary tuberculosis, sometimes bronchial asthma).",
+      "2:",
+      "Consanguinity of parents (Mucoviscidosis, Kartagenar’s  Syndrome). ",
+      ""
+    ]
+  },
+  "Personal History": {
+    "name": [
+      "a.Smoking:",
+      "If the patient is a smoker, ask about smoking habits, number of cigarettes smoked daily and duration of smoking (Chronic bronchitis and bronchogenic carcinoma).",
+      "b.:",
+      "Allergies and history of hay fever and eczema (Atopic asthma). ",
+      "c.Occupation:",
+      "Ask about occupation, present and past and duration of. exposure e.g. Work with coal, silica and asbestos (Pneumoconiosis), Work in sugar industry (Bagassosis), work on farms (Farmer’s lung). ",
+      "d.Hobbies:",
+      "Pigeons, parrots and budgerigar fanciers (Extrinsic allergic alveolitis as a cause of pulmonary fanciers fibrosis).",
+      ""
+    ]
+  },
+  "Drug History": {
+    "name": ["Not Enough Data"]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Chronic sinusitis:",
+      "Patient often gives history of long-  standing postnasal dischrge with recurrent attacks of cough productive of variable quantity of muco-purulent sputum and headache. Headache is usually frontal and often has a Ccharacteristic pattern (See headache due to sinusitis). Fever may occur during acute exacerbations.",
+      "2.Chronic bronchitis:",
+      "The patient who is often a smoker, complains of cough productive of sputum for more than two years lasting for more than three months in one year. Cough is productive of copious amounts of mucoid sputum which may become mucopurulent during acute exacerbations. There is often associated breathlessness, wheeze and sometimes fever. Patient often responds to bronchodilators, antibiotics and to some extent steroids. Gradually the symptoms worsen leading to the features of cor-pulmonale.",
+      "3.Bronchial asthma:",
+      "The patient may be a child or an adult. In children there is history of cough, breathlessness and wheeze, episodic in nature, with relief in between the attacks and aggravated by exercise. There could be history suggestive of allergic rhinitis, eczema or nasal polyps in these children. Most of these children are cured of the disease by school leaving age. In adults the symptoms are more or less continuous and are increased during acute exacerbations. There is cough, breathlessness, wheeze and tightness of the chest which could be aggravated by dust, cold, rice and sometimes by non-steroidal anti-inflammatory drugs (NSAID). In asthma of childhood and adults, the cough is often dry but can be productive of scanty amounts of thick, tenacious sputum which partialy relieves the symptoms. Nocturnal attacks are common. There is usually a good response to bronchodilators and steroids.",
+      "4.Pulmonary tuberculosis:",
+      "Usually there is history of cough which may be dry initially, later on becoming productive of muco-purulent sputum and sometimes  haemoptysis which could be massive and life-threatening. There is often a low grade fever with evening rise of temperature, sweating, anorexia  and weight loss. Severe disease can lead to Breathlessness. Patients are often poor and living in overcrowded conditions.  There could be history of another family member or work mate having had the treatment for tuberculosis or having symptoms similar to that of the patient.",
+      "5.Lobar pneumonia:",
+      "Usually there is history of fever dry cough and pleuritic chest pain with breathlessness. During resolution of pneumonia there is rusty sputum in pneumococcal. Pneumonia, yellowish sputum in most pyogenic infections and brick red sputum in klebsiella peumonia. Uncomplicated pneumonia usually lasts for one to two weeks when untreated.",
+      "6. Acute pulmonary oedema:",
+      "In a patient with Past history of hypertension, ischaemic or valvular heart disease, then is sudden breathlessness, cough productive of moderate amounts of frothy sputum which may be blood stained. The attacks are often nocturnal usually waking the patient (as well as the doctor!) from sleep. There may be also history of exertional dyspnoea and orthopnoea. Patients often respond to diuretics and sometimes to bronchodilators. The condition is due to acute left ventricular failure and is also called cardiac asthma because it may also be associated with wheeze",
+      "7. Bronchiectasis:",
+      "There is a history of cough productive of large amounts  purulent, foul smelling sputum more on waking than duing the rest of the day. There may be be haemoptysis, fever, breathlessness and variation of sputum variation of sputum i.e. foam, fluid and three layers i.e. foam, fluid and sediment from above downward. There could production with posture. Sputum on standing forms three layers be a past history of whooping cough or measles in  childhood or treatment of pulmonary tuberculosis.",
+      "8.Lung abscess:",
+      "The symptoms are usually similar to Bronchiectasis except that the duration is shorter and there is swinging fever with rigors and more marked weight loss",
+      "9.Pulmonary fibrosis:",
+      "These patients may have a history of occupational exposure to industrial dust (Pneumoconiosis), long contact with birds (Bird fanciers lung) although the cause may be unknown (Cryptogenic fibrosing alveolitis). Patient presents With long history of dry cough and progressively increasing breathlessness which may worsen during intercurrent infections. There is little or no response to steroids. Ultimately features of cor pulmonale develop in these patients.",
+      "10.Bronchogenic carcinoma:",
+      "The patient is often an old Man who has been a heavy smoker. There is history of cough, breathlessness, anorexia and weight loss. Cough may be dry but often productive of sputum which may be blood stained. Sometimes the presentation is with features of pneumonia which fails to resolve. If recurrent laryngeel nerve is involved, there is hoarseness of voice and a bovine nature of cough.",
+      ""
+    ]
+  }
+}

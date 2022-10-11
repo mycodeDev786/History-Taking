@@ -1,0 +1,84 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Passage of blood in the sputum is Called haemoptysis. The amount of blood may vary between streaks to massive bleeding.",
+      "1.Respiratory:",
+      "Pulmonary tuberculosis, Bronchiectasis. Lung abscess, Bronchogenic adenoma & carcinoma and pulmonary infarction",
+      "2.Cardiac:",
+      "Mitral stenosis",
+      "3.Haematologic:",
+      "Thrombocytopenia and clotting disorders ",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Duration:",
+      "Short (Pulmonary infarction and mitral stenosis), long (Pulmonary tuberculosis, bronchiectasis, lung abscess and rarely bronchogenic carcinonma). However the duration to a large extent depends upon when the patient decides to see the doctor.",
+      "2.Qunatity:",
+      "Scanty i.e. streaks of blood in the sputum (Acute pharyngitis and tonsillitis), moderate (Pulmonary infarction and mitral stenosis) or massive (pulmonary tuberculosis, bronchogenic carcinoma, sometimes bronchiectasis and lung abscess). Again, quantity of blood may vary from time to time in the same patient.",
+      "3.Relationship to-posture:",
+      "While lying on one or other side (Bronchiectasis and lung abscess).",
+      "4.Associated symptoms:",
+      "a):",
+      "Foul smelling sputum (Bronchiectasis and lung abscess).",
+      "b):",
+      "Fever (Pulmonary tuberculosis, tonsillitis, pharyngitis, off and on in bronchiectasis and lung abscess).",
+      "c):",
+      "Chest pain (Pulmonary infarction, rarely in pulmonary  tuberculosis, bronchiectasis and lung abscess due to superadded infection).",
+      "d):",
+      "Breathlessness on exertion, orthopnoea and paroxysmal  nocturnal dyspnoea with or without swelling feet and pain right hypochondrium (Mitral stenosis). ",
+      "e):",
+      "Severe anorexia and weight loss (Bronchogenic carcinoma and pulmonary tuberculosis).",
+      "f):",
+      "Bleeding in the skin and from other sites (Bleeding diathesis).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "Ask about a past history of:",
+      "Measles or whooping cough (Bronchiectasis), unconsciousness or anaesthesia (Lung abscess), operation causing bed rest (Pulmonary infarction). Also enquire about any incomplete or irregular anti-tuberculous therapy.",
+      ""
+    ]
+  },
+  "Faimly History": {
+    "name": [
+      "About any other family member having pulmonary tuberculosis or bleeding disorder and about size of the family With particular reference to overcrowding in rooms."
+    ]
+  },
+  "Personal History": {
+    "name": [
+      " About smoking (Bronchogenic carcinoma) and Diabetes mellitus (More prone to pulmonary tuberculosis, Lung abscess and bronchiectasis). "
+    ]
+  },
+  "Drug History": {
+    "name": ["Not Enoug Data"]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Chronic sinusitis:",
+      "Patient often gives history of long-  standing postnasal dischrge with recurrent attacks of cough productive of variable quantity of muco-purulent sputum and headache. Headache is usually frontal and often has a Ccharacteristic pattern (See headache due to sinusitis). Fever may occur during acute exacerbations.",
+      "2.Chronic bronchitis:",
+      "The patient who is often a smoker, complains of cough productive of sputum for more than two years lasting for more than three months in one year. Cough is productive of copious amounts of mucoid sputum which may become mucopurulent during acute exacerbations. There is often associated breathlessness, wheeze and sometimes fever. Patient often responds to bronchodilators, antibiotics and to some extent steroids. Gradually the symptoms worsen leading to the features of cor-pulmonale.",
+      "3.Bronchial asthma:",
+      "The patient may be a child or an adult. In children there is history of cough, breathlessness and wheeze, episodic in nature, with relief in between the attacks and aggravated by exercise. There could be history suggestive of allergic rhinitis, eczema or nasal polyps in these children. Most of these children are cured of the disease by school leaving age. In adults the symptoms are more or less continuous and are increased during acute exacerbations. There is cough, breathlessness, wheeze and tightness of the chest which could be aggravated by dust, cold, rice and sometimes by non-steroidal anti-inflammatory drugs (NSAID). In asthma of childhood and adults, the cough is often dry but can be productive of scanty amounts of thick, tenacious sputum which partialy relieves the symptoms. Nocturnal attacks are common. There is usually a good response to bronchodilators and steroids.",
+      "4.Pulmonary tuberculosis:",
+      "Usually there is history of cough which may be dry initially, later on becoming productive of muco-purulent sputum and sometimes  haemoptysis which could be massive and life-threatening. There is often a low grade fever with evening rise of temperature, sweating, anorexia  and weight loss. Severe disease can lead to Breathlessness. Patients are often poor and living in overcrowded conditions.  There could be history of another family member or work mate having had the treatment for tuberculosis or having symptoms similar to that of the patient.",
+      "5.Lobar pneumonia:",
+      "Usually there is history of fever dry cough and pleuritic chest pain with breathlessness. During resolution of pneumonia there is rusty sputum in pneumococcal. Pneumonia, yellowish sputum in most pyogenic infections and brick red sputum in klebsiella peumonia. Uncomplicated pneumonia usually lasts for one to two weeks when untreated.",
+      "6. Acute pulmonary oedema:",
+      "In a patient with Past history of hypertension, ischaemic or valvular heart disease, then is sudden breathlessness, cough productive of moderate amounts of frothy sputum which may be blood stained. The attacks are often nocturnal usually waking the patient (as well as the doctor!) from sleep. There may be also history of exertional dyspnoea and orthopnoea. Patients often respond to diuretics and sometimes to bronchodilators. The condition is due to acute left ventricular failure and is also called cardiac asthma because it may also be associated with wheeze",
+      "7. Bronchiectasis:",
+      "There is a history of cough productive of large amounts  purulent, foul smelling sputum more on waking than duing the rest of the day. There may be be haemoptysis, fever, breathlessness and variation of sputum variation of sputum i.e. foam, fluid and three layers i.e. foam, fluid and sediment from above downward. There could production with posture. Sputum on standing forms three layers be a past history of whooping cough or measles in  childhood or treatment of pulmonary tuberculosis.",
+      "8.Lung abscess:",
+      "The symptoms are usually similar to Bronchiectasis except that the duration is shorter and there is swinging fever with rigors and more marked weight loss",
+      "9.Pulmonary fibrosis:",
+      "These patients may have a history of occupational exposure to industrial dust (Pneumoconiosis), long contact with birds (Bird fanciers lung) although the cause may be unknown (Cryptogenic fibrosing alveolitis). Patient presents With long history of dry cough and progressively increasing breathlessness which may worsen during intercurrent infections. There is little or no response to steroids. Ultimately features of cor pulmonale develop in these patients.",
+      "10.Bronchogenic carcinoma:",
+      "The patient is often an old Man who has been a heavy smoker. There is history of cough, breathlessness, anorexia and weight loss. Cough may be dry but often productive of sputum which may be blood stained. Sometimes the presentation is with features of pneumonia which fails to resolve. If recurrent laryngeel nerve is involved, there is hoarseness of voice and a bovine nature of cough.",
+      ""
+    ]
+  }
+}

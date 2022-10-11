@@ -1,0 +1,70 @@
+{
+  "Common Causes": {
+    "name": [
+      "DEFINITION:",
+      "Vertigo is a subjective sensation of movement in which patient may feel either that he is revolving in space or that the objects in his environment are moving around him. Dizziness is the term most commonly used by the patients to describe vertigo.",
+      "1.Psychogenic vertigo",
+      "2.Acute labyrinthitis ",
+      "3.Meniere’s disease",
+      "4.Benign positional vertigo",
+      "5.Tumour e.g. Acoustic neuroma and cerebellopontine tumours",
+      "6.Otitis media",
+      "7.Vertebrobasilar insufficiency ",
+      "8.Cervical spondylosis ",
+      "9.Systemic diseases e.g. Hypertension,severe anaemia, High grade fever",
+      ""
+    ]
+  },
+  "History of Present Illness": {
+    "name": [
+      "1.Onset and duration:",
+      "Sudden and recent (Exertional vertigo, acute labyrinthitis, vascular disorders of the inner ear), gradual, long-standing and episodic (Otitis media, Meniere's disease, Benign positional vertigo, cervical spondylosis, migraine and Sometimes psychogenic), gradual, long-standing and continuous (Cerebellopontine tumours, acoustic neuroma, vertebrobasilar insufficiency, psychogenic, anaemia and hypertension).",
+      "2.Ear symptoms:",
+      "ask about symptoms of ear disease i.e. deafness, tinnitus and ear discharge (Otitis media, acute labyrinthitis Meniere's disease, acoustic  neuroma and Cerebellopontine tumors).",
+      "3.Effect of posture:",
+      "Related to the position of the head or body (Benign positional vertigo and Cervical spondylosis).",
+      "4. Presence of fainting:- History of fainting with Vertigo  indicates Vertebrobasilar insufficieney, cardiac arrhythmias carotid arteriosclerosis and sometimes hyperventilation.",
+      "5. Other associated symptoms:",
+      "a):",
+      "Nausea and vomiting (Acute labyrinthitis, Meniere’s disease and migraine)",
+      "b):",
+      "Stiffness and painful movements of the neck with or without pain in other joints (Cervical spondylosis).",
+      "c):",
+      "Attacks of palpitations (Cardiac arrhythmias).",
+      "d):",
+      "Headache (Migraine,acoustic neuroma and   cerebellopontine tumours).",
+      "e):",
+      "Paralysis, double-vision, facial weakness, (Vertebrobasilar insufficiency).",
+      "f):",
+      "Symptoms of anxiety e.g. palpitations, numbness, fatiguibility, anorexia, insomnia and failure to take a deep breath i.e. hyperventilation (Psychogenic vertigo).",
+      ""
+    ]
+  },
+  "Past History": {
+    "name": [
+      "ASK about the past history of hypertension, ischaemic heart disease, stroke, head injury or psychological problems."
+    ]
+  },
+  "Faimly History": {
+    "name": ["Not Enough Data"]
+  },
+  "Personal History": {
+    "name": ["Not Enough Data"]
+  },
+  "Drug History": {
+    "name": ["Not Enough Data"]
+  },
+  "Differntail Diagnosis": {
+    "name": [
+      "1.Acute labyrinthitis:",
+      "It is sudden in onset, recent and paroxysmal with nausea and vomiting. There is no relation to posture and there are no associated neurological or ear symptoms. The disease is often self-limiting.",
+      "2.Meneiere’s disease:",
+      "The patient is often a male above forty who complains of attacks of vertigo with associated vomiting, deafness and tinnitus, the attacks often last from a few minutes to about half an hour with periods of freedom lasting months to years. Usually, one ear is involved. There is no loss of consciousness and no weakness.",
+      "3.Benign positional vertigo:",
+      "This causes Acute, recurrent vertigo of brief duration (10 seconds or less) which is characteristically brought about by a change in the head position and leaves the patient fatigued but does not cause any ear symptoms e.g. deafness or tinnitus.",
+      "4.Psychogenic vertigo:",
+      "The patient is often a young unmarried sensitive female who complains of vertigo in association with other symptoms of anxiety i.e. anorexia, insomnia, attacks of hyperventilation and fits, numbness, palpitations and often GIT complaints.",
+      ""
+    ]
+  }
+}
